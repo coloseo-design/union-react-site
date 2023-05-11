@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="300px" viewBox="0 0 540 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2</title>
+    <defs>
+        <rect id="path-1" x="96" y="33" width="347" height="222" rx="3"></rect>
+        <filter x="-2.0%" y="-2.3%" width="104.0%" height="106.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.576470588   0 0 0 0 0.576470588   0 0 0 0 0.576470588  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件设计规范备份--数据展示备份" transform="translate(-720.000000, -1453.000000)">
+            <g id="2" transform="translate(720.000000, 1453.000000)">
+                <rect id="矩形备份-126" fill="#FFFFFF" x="0" y="0" width="540" height="300"></rect>
+                <g id="Rectangle-Copy备份-6">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#F9FAFB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M99,33 L440,33 C441.656854,33 443,34.3431458 443,36 L443,69 L443,69 L96,69 L96,36 C96,34.3431458 97.3431458,33 99,33 Z" id="矩形备份-22" fill="#E9EBF0"></path>
+            </g>
+        </g>
+    </g>
+</svg>

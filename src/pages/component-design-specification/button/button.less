@@ -1,0 +1,79 @@
+@import "../styles/global.less";
+
+.design-button {
+  .buton-storng {
+    color: #5c57f2;
+  }
+
+  & > .button-secondary {
+    font-size: 21px;
+    font-weight: 400;
+    .description-start {
+      & > .directory-list {
+        & > .directory-list {
+          color: #716dea;
+        }
+      }
+    }
+  }
+  &-list {
+    padding-bottom: 40px;
+    & > .button-item {
+      padding: 40px 0;
+      &:last-child {
+        padding-bottom: 0px;
+      }
+      &:not(:last-child) {
+        border-bottom: 1px solid #d8d8d8;
+      }
+      & > .item {
+        &-title {
+          font-size: 24px;
+          color: #5c57f2;
+        }
+        &-description {
+          padding-top: 8px;
+          font-size: 14px;
+        }
+        &-children {
+          .children {
+            padding-top: 40px;
+            & > .children-left {
+              padding-right: 59px;
+              .title {
+                margin-bottom: 8px;
+                font-size: 24px;
+                font-family: PingFangSC-Regular, PingFang SC;
+                font-weight: 400;
+                color: rgba(0, 0, 0, 0.85);
+              }
+              .description {
+                font-size: 14px;
+                font-family: PingFangSC-Regular, PingFang SC;
+                font-weight: 400;
+                word-wrap: break-word;
+                color: rgba(20, 19, 19, 0.85);
+
+                text-align: justify;
+                text-justify: inter-cluster;;
+              }
+            }
+            & > .children-float {
+              float: left;
+              width: 40%;
+            }
+            & > .children-img {
+              float: right;
+            }
+
+            &::after {
+              content: "";
+              display: block;
+              clear: both;
+            }
+          }
+        }
+      }
+    }
+  }
+}

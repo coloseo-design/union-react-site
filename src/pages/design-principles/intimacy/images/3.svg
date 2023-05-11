@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="182px" viewBox="0 0 540 182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3</title>
+    <defs>
+        <rect id="path-1" x="60" y="75" width="181" height="40"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="181" height="40" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="300" y="75" width="181" height="40"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="181" height="40" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设计原则-亲密性" transform="translate(-720.000000, -1568.000000)">
+            <g id="3" transform="translate(720.000000, 1568.000000)">
+                <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="540" height="182"></rect>
+                <rect id="矩形备份-39" fill="#FAEFEA" x="1" y="1" width="59" height="180"></rect>
+                <rect id="矩形备份-57" fill="#FAEFEA" x="120" y="1" width="60" height="180"></rect>
+                <rect id="矩形备份-59" fill="#FAEFEA" x="240" y="1" width="60" height="180"></rect>
+                <rect id="矩形备份-60" fill="#FAEFEA" x="360" y="1" width="60" height="180"></rect>
+                <rect id="矩形备份-61" fill="#FAEFEA" x="480" y="1" width="59" height="180"></rect>
+                <use id="矩形" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#E7EFFE" stroke-dasharray="3" xlink:href="#path-1"></use>
+                <use id="矩形备份-50" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill="#E7EFFE" stroke-dasharray="3" xlink:href="#path-3"></use>
+                <rect id="矩形备份-51" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="394.5" y="87.5" width="15" height="15" rx="2"></rect>
+                <rect id="矩形备份-53" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="464.5" y="87.5" width="15" height="15" rx="2"></rect>
+                <rect id="矩形" stroke="#979797" fill="#FFFFFF" x="120.5" y="81.5" width="120" height="27" rx="2"></rect>
+                <rect id="矩形备份-27" fill="#D8D8D8" x="1" y="39" width="59" height="18"></rect>
+                <rect id="矩形备份-49" fill="#D8D8D8" x="60" y="87" width="44" height="14"></rect>
+                <rect id="矩形备份-52" fill="#D8D8D8" x="354" y="88" width="32" height="14"></rect>
+                <rect id="矩形备份-55" fill="#D8D8D8" x="300" y="88" width="30" height="14"></rect>
+                <rect id="矩形备份-54" fill="#D8D8D8" x="426" y="88" width="30" height="14"></rect>
+                <rect id="矩形备份-43" fill="#D8D8D8" x="90" y="39" width="60" height="18"></rect>
+                <rect id="矩形备份-48" fill="#D8D8D8" x="180" y="39" width="60" height="18"></rect>
+                <rect id="矩形" fill="#D8D8D8" x="10" y="62" width="520" height="2"></rect>
+                <rect id="矩形备份-41" fill="#B30000" x="1" y="62" width="59" height="2"></rect>
+                <text id=":" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.645705857">
+                    <tspan x="334" y="100">:</tspan>
+                </text>
+                <text id="组件1" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.645705857">
+                    <tspan x="60" y="138">组件1</tspan>
+                </text>
+                <text id="组件2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.645705857">
+                    <tspan x="300" y="138">组件2</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

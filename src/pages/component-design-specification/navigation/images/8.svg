@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="277px" viewBox="0 0 540 277" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8</title>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件设计规范备份--导航" transform="translate(-720.000000, -3484.000000)">
+            <g id="8" transform="translate(720.000000, 3484.000000)">
+                <rect id="矩形" fill="#C8C9CB" x="0.998151571" y="0" width="539.001848" height="277"></rect>
+                <rect id="矩形" fill="#FFFFFF" x="0.998151571" y="0" width="539.001848" height="25"></rect>
+                <rect id="矩形备份-2" fill="#FFFFFF" x="8.98336414" y="57" width="523.031423" height="45"></rect>
+                <rect id="矩形备份-12" fill="#FFFFFF" x="8.98336414" y="97" width="523.031423" height="173"></rect>
+                <rect id="矩形" fill="#B30000" x="0" y="25" width="539.001848" height="24"></rect>
+                <rect id="矩形" fill="#D8D8D8" x="97.818854" y="29" width="93.8262477" height="15"></rect>
+                <rect id="矩形备份-3" fill="#D8D8D8" x="204.621072" y="29" width="93.8262477" height="15"></rect>
+                <rect id="矩形备份-5" fill="#D8D8D8" x="309.426987" y="29" width="93.8262477" height="15"></rect>
+                <text id="China-Unicom" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#B30000">
+                    <tspan x="8.98336414" y="18">China Unicom</tspan>
+                </text>
+                <ellipse id="椭圆形备份" fill="#F8BA00" cx="393.271719" cy="37" rx="18.9648799" ry="19"></ellipse>
+                <text id="1" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.85">
+                    <tspan x="389.279113" y="42">1</tspan>
+                </text>
+                <rect id="矩形备份-71" fill="#7F1D1D" x="8.98336414" y="25" width="80.8502773" height="24"></rect>
+                <rect id="矩形备份-28" fill="#D8D8D8" x="28.9463956" y="28" width="44.9168207" height="15"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

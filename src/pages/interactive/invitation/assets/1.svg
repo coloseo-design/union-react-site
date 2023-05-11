@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="763px" viewBox="0 0 540 763" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0.649885 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.968627 0 0 0 0 0.709804 0 0 0 0 0.003922 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="交互原则-提供邀请" transform="translate(-720.000000, -604.000000)">
+            <g id="1" transform="translate(720.000000, 604.000000)">
+                <rect id="矩形备份-3" fill="#F9FAFB" x="0" y="0" width="540" height="763"></rect>
+                <rect id="矩形" stroke="#E8E7E7" fill="#FFFFFF" x="20.5" y="48.5" width="499" height="47" rx="2"></rect>
+                <rect id="矩形" fill="#F2F4F5" x="20" y="144" width="499" height="359" rx="2"></rect>
+                <rect id="矩形备份" fill="#FFFFFF" x="20" y="564" width="499" height="168" rx="2"></rect>
+                <text id="白板式邀请" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="19" y="124">白板式邀请</tspan>
+                </text>
+                <text id="文本邀请" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="19" y="25">文本邀请</tspan>
+                </text>
+                <text id="未完成邀请" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="19" y="535">未完成邀请</tspan>
+                </text>
+                <text id="请给予本项目进行评价：" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.649885271">
+                    <tspan x="47" y="77">请给予本项目进行评价：</tspan>
+                </text>
+                <g id="点赞2" transform="translate(355.000000, 58.000000)" fill="#000000" fill-rule="nonzero">
+                    <rect id="矩形" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M20.739,9.91725 L15.1635,9.91725 C17.3235,1.93725 13.67475,1.53 13.67475,1.53 C12.12825,1.53 12.4485,2.75325 12.33225,2.95725 C12.33225,6.8595 8.187,9.91725 8.187,9.91725 L8.187,20.985 C8.187,22.077 9.67575,22.47 10.25925,22.47 L18.63675,22.47 C19.42575,22.47 20.06775,20.403 20.06775,20.403 C22.14,13.3545 22.14,11.2575 22.14,11.2575 C22.14,9.801 20.73825,9.91725 20.73825,9.91725 L20.739,9.91725 Z M5.89875,9.92099694 L2.55975,9.92099694 C1.86975,9.92099694 1.85925,10.59825 1.85925,10.59825 L2.54925,21.759 C2.54925,22.47 3.261,22.47 3.261,22.47 L6.15,22.47 C6.7515,22.47 6.74625078,21.99975 6.74625078,21.99975 L6.74625078,10.76775 C6.74625078,9.9105 5.898,9.92099694 5.898,9.92099694 L5.89875,9.92099694 Z" id="形状" fill-opacity="0.649885271"></path>
+                </g>
+                <g filter="url(#filter-1)" id="投诉">
+                    <g transform="translate(435.000000, 60.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M20.739,14.08275 L15.1635,14.08275 C17.3235,22.06275 13.67475,22.47 13.67475,22.47 C12.12825,22.47 12.4485,21.24675 12.33225,21.04275 C12.33225,17.1405 8.187,14.08275 8.187,14.08275 L8.187,3.015 C8.187,1.923 9.67575,1.53 10.25925,1.53 L18.63675,1.53 C19.42575,1.53 20.06775,3.597 20.06775,3.597 C22.14,10.6455 22.14,12.7425 22.14,12.7425 C22.14,14.199 20.73825,14.08275 20.73825,14.08275 L20.739,14.08275 Z M5.89875,14.0790031 L2.55975,14.0790031 C1.86975,14.0790031 1.85925,13.40175 1.85925,13.40175 L2.55,2.241 C2.55,1.53 3.26175,1.53 3.26175,1.53 L6.15,1.53 C6.7515,1.53 6.74625078,2.00025 6.74625078,2.00025 L6.74625078,13.23225 C6.74625078,14.0895 5.898,14.0790031 5.898,14.0790031 L5.89875,14.0790031 Z" id="形状" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <rect id="矩形备份-42" fill="#BEBEBE" x="385" y="66" width="33" height="12"></rect>
+                <rect id="矩形备份-43" fill="#BEBEBE" x="471" y="66" width="33" height="12"></rect>
+                <rect id="矩形备份-74" fill="#B30000" x="209" y="428" width="110" height="24" rx="2"></rect>
+                <rect id="矩形备份-75" fill="#B30000" x="286" y="695" width="56" height="24" rx="2"></rect>
+                <rect id="矩形备份-76" stroke-opacity="0.35" stroke="#000000" x="358.5" y="695.5" width="55" height="23" rx="2"></rect>
+                <text id="创建项目" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="236" y="445">创建项目</tspan>
+                </text>
+                <text id="登陆" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="300" y="712">登陆</tspan>
+                </text>
+                <text id="注册" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.649885271">
+                    <tspan x="372" y="712">注册</tspan>
+                </text>
+                <rect id="矩形" fill="#FFFFFF" x="91" y="208" width="359" height="196"></rect>
+                <rect id="矩形备份-65" fill="#BEBEBE" x="151" y="230" width="269" height="16"></rect>
+                <rect id="矩形备份-66" fill="#BEBEBE" x="151" y="270" width="269" height="16"></rect>
+                <rect id="矩形备份-69" fill="#BEBEBE" x="98" y="584" width="79" height="16"></rect>
+                <rect id="矩形备份-70" fill="#BEBEBE" x="98" y="640" width="79" height="16"></rect>
+                <rect id="矩形备份-71" fill="#BEBEBE" x="98" y="692" width="79" height="16"></rect>
+                <rect id="矩形备份-67" fill="#BEBEBE" x="151" y="310" width="269" height="16"></rect>
+                <rect id="矩形备份-68" fill="#BEBEBE" x="151" y="350" width="269" height="16"></rect>
+                <rect id="矩形备份-35" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="119.5" y="230.5" width="15" height="15" rx="2"></rect>
+                <rect id="矩形备份-36" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="119.5" y="270.5" width="15" height="15" rx="2"></rect>
+                <rect id="矩形备份-37" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="119.5" y="310.5" width="15" height="15" rx="2"></rect>
+                <rect id="矩形备份-38" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="119.5" y="350.5" width="15" height="15" rx="2"></rect>
+                <rect id="矩形" fill="#EBEDF0" x="43" y="575" width="42" height="38"></rect>
+                <rect id="矩形备份-5" fill="#EBEDF0" x="43" y="628" width="42" height="38"></rect>
+                <rect id="矩形备份-6" fill="#EBEDF0" x="43" y="681" width="42" height="38"></rect>
+                <rect id="矩形备份-26" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="239.5" y="618.5" width="246" height="22" rx="2"></rect>
+                <rect id="矩形备份-28" stroke="#F8BA00" fill="#FFF6E6" x="195.5" y="575.5" width="290" height="31" rx="2"></rect>
+                <rect id="矩形备份-27" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="239.5" y="653.5" width="246" height="22" rx="2"></rect>
+                <text id="用户" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.649885271">
+                    <tspan x="195" y="634">用户</tspan>
+                </text>
+                <text id="密码" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.649885271">
+                    <tspan x="195" y="669">密码</tspan>
+                </text>
+                <rect id="矩形" fill="#DBDDE1" x="247" y="625" width="72" height="9"></rect>
+                <rect id="矩形备份-8" fill="#DBDDE1" x="247" y="660" width="72" height="9"></rect>
+                <g filter="url(#filter-2)" id="异常">
+                    <g transform="translate(209.000000, 584.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="15.8146718" height="15.8146718"></rect>
+                        <path d="M8.15444015,0.0637528958 C12.4861776,0.0637528958 15.9980232,3.57559846 15.9980232,7.90733591 C15.9980232,12.2390734 12.4861776,15.7509189 8.15444015,15.7509189 C3.8227027,15.7509189 0.310857143,12.2390734 0.310857143,7.90733591 C0.310857143,3.57559846 3.8227027,0.0637528958 8.15444015,0.0637528958 Z M8.15444015,10.5938533 C7.4984197,10.5938533 6.96661004,11.1256629 6.96661004,11.7816834 C6.96661004,12.4377039 7.4984197,12.9695135 8.15444015,12.9695135 C8.81046061,12.9695135 9.34227027,12.4377039 9.34227027,11.7816834 C9.34227027,11.1256629 8.81046061,10.5938533 8.15444015,10.5938533 Z M8.11984556,9.66523564 C8.39125072,9.66536663 8.6515847,9.55764325 8.84354349,9.36577715 C9.03550228,9.17391105 9.14335135,8.91362913 9.14335135,8.64222394 L9.14335135,3.86816988 C9.14335135,3.30317619 8.68533346,2.8451583 8.12033977,2.8451583 C7.55534607,2.8451583 7.09732819,3.30317619 7.09732819,3.86816988 L7.09732819,8.64222394 C7.09732819,9.20721763 7.55534607,9.66523564 8.12033977,9.66523564 L8.11984556,9.66523564 Z" id="形状" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <text id="该用户状态异常，请重新申请" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.649885271">
+                    <tspan x="251" y="596">该用户状态异常，请重新申请</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

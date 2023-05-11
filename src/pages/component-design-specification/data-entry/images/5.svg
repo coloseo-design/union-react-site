@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="536px" viewBox="0 0 960 536" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>5</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.674510 0 0 0 0 0.686275 0 0 0 0 0.725490 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.674510 0 0 0 0 0.686275 0 0 0 0 0.725490 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="62" y="299" width="263" height="202" rx="3"></rect>
+        <filter x="-3.0%" y="-3.5%" width="106.1%" height="107.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.576470588   0 0 0 0 0.576470588   0 0 0 0 0.576470588  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="349" y="299" width="263" height="202" rx="3"></rect>
+        <filter x="-3.0%" y="-3.5%" width="106.1%" height="107.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.576470588   0 0 0 0 0.576470588   0 0 0 0 0.576470588  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter id="filter-7">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.290196 0 0 0 0 0.368627 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-8">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.290196 0 0 0 0 0.368627 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-9">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.290196 0 0 0 0 0.368627 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-10">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.290196 0 0 0 0 0.368627 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-11">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.290196 0 0 0 0 0.368627 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-12">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.290196 0 0 0 0 0.368627 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="636" y="299" width="263" height="202" rx="3"></rect>
+        <filter x="-3.0%" y="-3.5%" width="106.1%" height="107.9%" filterUnits="objectBoundingBox" id="filter-14">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.576470588   0 0 0 0 0.576470588   0 0 0 0 0.576470588  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter id="filter-15">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.290196 0 0 0 0 0.368627 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-16">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.290196 0 0 0 0 0.368627 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-17">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.290196 0 0 0 0 0.368627 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <rect id="path-18" x="62" y="111" width="266" height="90" rx="3"></rect>
+        <filter x="-3.0%" y="-7.8%" width="106.0%" height="117.8%" filterUnits="objectBoundingBox" id="filter-19">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.576470588   0 0 0 0 0.576470588   0 0 0 0 0.576470588  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter id="filter-20">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.674510 0 0 0 0 0.686275 0 0 0 0 0.725490 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-21">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.674510 0 0 0 0 0.686275 0 0 0 0 0.725490 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-22">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.674510 0 0 0 0 0.686275 0 0 0 0 0.725490 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-23">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.674510 0 0 0 0 0.686275 0 0 0 0 0.725490 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件设计规范备份-数据录入备份" transform="translate(-299.000000, -4564.000000)">
+            <g id="5" transform="translate(299.000000, 4564.000000)">
+                <rect id="矩形备份-117" stroke="#E8E7E7" x="0.5" y="0.5" width="959" height="535"></rect>
+                <text id="单选" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="62" y="238">单选</tspan>
+                </text>
+                <text id="多选" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="349" y="238">多选</tspan>
+                </text>
+                <path d="M322.001075,263.5 C322.691969,263.5 323.317552,263.778306 323.77,264.230329 C324.221271,264.681174 324.5,265.304684 324.5,265.9961 L324.5,265.9961 L324.5,292.0039 C324.5,292.692064 324.218839,293.314958 323.76701,293.766361 C323.313637,294.219308 322.688217,294.5 322.001075,294.5 L322.001075,294.5 L64.9989248,294.5 C64.308031,294.5 63.6824483,294.221694 63.2299996,293.769671 C62.7787292,293.318826 62.5,292.695316 62.5,292.0039 L62.5,292.0039 L62.5,265.9961 C62.5,265.307936 62.7811611,264.685042 63.2329898,264.233639 C63.6863631,263.780692 64.3117829,263.5 64.9989248,263.5 L64.9989248,263.5 Z" id="Rectangle-26-Copy-23备份" stroke="#B30000" fill="#FFFFFF"></path>
+                <path d="M609.001075,263.5 C609.691969,263.5 610.317552,263.778306 610.77,264.230329 C611.221271,264.681174 611.5,265.304684 611.5,265.9961 L611.5,265.9961 L611.5,292.0039 C611.5,292.692064 611.218839,293.314958 610.76701,293.766361 C610.313637,294.219308 609.688217,294.5 609.001075,294.5 L609.001075,294.5 L351.998925,294.5 C351.308031,294.5 350.682448,294.221694 350.23,293.769671 C349.778729,293.318826 349.5,292.695316 349.5,292.0039 L349.5,292.0039 L349.5,265.9961 C349.5,265.307936 349.781161,264.685042 350.23299,264.233639 C350.686363,263.780692 351.311783,263.5 351.998925,263.5 L351.998925,263.5 Z" id="Rectangle-26-Copy-23备份-3" stroke="#B30000" fill="#FFFFFF"></path>
+                <rect id="Rectangle" stroke="#C8CAD1" fill="#E9EBF0" x="361" y="268" width="65" height="22" rx="3"></rect>
+                <rect id="Rectangle备份-8" stroke="#C8CAD1" fill="#E9EBF0" x="434" y="268" width="68" height="22" rx="3"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                    <tspan x="369" y="282">标签1</tspan>
+                </text>
+                <text id="Text备份-19" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                    <tspan x="442" y="282">标签2</tspan>
+                </text>
+                <g filter="url(#filter-1)" id="叉号，删除，关闭">
+                    <g transform="translate(406.000000, 273.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M8.90585156,2.38734375 C9.12551953,2.16767578 9.48167578,2.16767578 9.70134375,2.38734375 C9.91882031,2.60482031 9.92098828,2.95605469 9.70787109,3.17621484 L9.70134375,3.18283594 L6.79194141,6.09225 L9.70871484,9.00901172 C9.92838281,9.22867969 9.92838281,9.58483594 9.70871484,9.80450391 C9.48904688,10.0241719 9.13289063,10.0241719 8.91322266,9.80450391 L5.99644922,6.88773047 L3.08879297,9.79538672 C2.87131641,10.0128633 2.52008203,10.015043 2.29992187,9.80191406 L2.29328906,9.79539844 C2.07582422,9.57792188 2.07364453,9.2266875 2.28677344,9.00652734 L2.29328906,8.99989453 L5.20094531,6.09223828 L2.30067187,3.19195313 C2.08100391,2.97227344 2.08100391,2.61612891 2.30067187,2.39644922 C2.52033984,2.17678125 2.87649609,2.17678125 3.09616406,2.39644922 L5.9964375,5.29673438 L8.90585156,2.38734375 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g filter="url(#filter-2)" id="叉号，删除，关闭备份">
+                    <g transform="translate(482.000000, 273.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M8.90585156,2.38734375 C9.12551953,2.16767578 9.48167578,2.16767578 9.70134375,2.38734375 C9.91882031,2.60482031 9.92098828,2.95605469 9.70787109,3.17621484 L9.70134375,3.18283594 L6.79194141,6.09225 L9.70871484,9.00901172 C9.92838281,9.22867969 9.92838281,9.58483594 9.70871484,9.80450391 C9.48904688,10.0241719 9.13289063,10.0241719 8.91322266,9.80450391 L5.99644922,6.88773047 L3.08879297,9.79538672 C2.87131641,10.0128633 2.52008203,10.015043 2.29992187,9.80191406 L2.29328906,9.79539844 C2.07582422,9.57792188 2.07364453,9.2266875 2.28677344,9.00652734 L2.29328906,8.99989453 L5.20094531,6.09223828 L2.30067187,3.19195313 C2.08100391,2.97227344 2.08100391,2.61612891 2.30067187,2.39644922 C2.52033984,2.17678125 2.87649609,2.17678125 3.09616406,2.39644922 L5.9964375,5.29673438 L8.90585156,2.38734375 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <text id="Text备份-18" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.35">
+                    <tspan x="74" y="283">请选择</tspan>
+                </text>
+                <g id="下拉备份-2" transform="translate(301.000000, 271.000000)" fill-rule="nonzero">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M14.035375,4.56342188 C14.3282656,4.8563125 14.3282656,5.3311875 14.035375,5.62407813 L8.4448125,11.2146406 C8.20071875,11.4586875 7.80501562,11.4587031 7.56090625,11.2146719 L1.96965625,5.6240625 C1.67678125,5.33117188 1.67678125,4.85629688 1.96965625,4.56340625 C2.25964063,4.2734375 2.72795312,4.27054688 3.02148438,4.55470313 L3.03032813,4.56340625 L8.00251563,9.53559375 L12.9747031,4.56340625 C13.2676094,4.27051563 13.7424844,4.27051563 14.035375,4.56340625 L14.035375,4.56342188 Z" id="路径" fill="#ACAFB9"></path>
+                </g>
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="矩形备份">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <rect id="矩形备份-8" x="62" y="302" width="263" height="28"></rect>
+                <rect id="矩形备份-16" x="349" y="302" width="263" height="28"></rect>
+                <rect id="矩形备份-9" x="62" y="330" width="263" height="28"></rect>
+                <rect id="矩形备份-17" x="349" y="330" width="263" height="28"></rect>
+                <rect id="矩形备份-10" x="62" y="358" width="263" height="28"></rect>
+                <rect id="矩形备份-18" x="349" y="358" width="263" height="28"></rect>
+                <rect id="矩形备份-11" x="62" y="386" width="263" height="28"></rect>
+                <rect id="矩形备份-19" x="349" y="386" width="263" height="28"></rect>
+                <rect id="矩形备份-12" x="62" y="414" width="263" height="28"></rect>
+                <rect id="矩形备份-20" x="349" y="414" width="263" height="28"></rect>
+                <rect id="矩形备份-13" x="62" y="442" width="263" height="28"></rect>
+                <rect id="矩形备份-21" x="349" y="442" width="263" height="28"></rect>
+                <rect id="矩形备份-14" x="62" y="470" width="263" height="28"></rect>
+                <rect id="矩形备份-22" x="349" y="470" width="263" height="28"></rect>
+                <text id="Text备份-2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="94" y="320">联通系统集成有限公司</tspan>
+                </text>
+                <text id="Text备份-3" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="381" y="320">联通系统集成有限公司</tspan>
+                </text>
+                <text id="Text备份-5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="94" y="348">北京分公司</tspan>
+                </text>
+                <text id="Text备份-11" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="381" y="348">北京分公司</tspan>
+                </text>
+                <text id="Text备份-8" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="94" y="432">山东分公司</tspan>
+                </text>
+                <text id="Text备份-12" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="381" y="432">山东分公司</tspan>
+                </text>
+                <text id="Text备份-6" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="116" y="374">XXX办公室</tspan>
+                </text>
+                <text id="Text备份-13" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#B30000">
+                    <tspan x="403" y="374">XXX办公室</tspan>
+                </text>
+                <text id="Text备份-9" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="116" y="458">XXX办公室</tspan>
+                </text>
+                <text id="Text备份-14" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="403" y="458">XXX办公室</tspan>
+                </text>
+                <text id="Text备份-7" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="116" y="402">XXX办公室</tspan>
+                </text>
+                <text id="Text备份-15" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#B30000">
+                    <tspan x="403" y="402">XXX办公室</tspan>
+                </text>
+                <text id="Text备份-10" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="116" y="486">XXX办公室</tspan>
+                </text>
+                <text id="Text备份-16" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="403" y="486">XXX办公室</tspan>
+                </text>
+                <g filter="url(#filter-7)" id="下拉，展开">
+                    <g transform="translate(74.000000, 310.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M1.42714453,3.56453906 L5.63572266,8.76114844 C5.79866016,8.96233594 6.09383203,8.99334375 6.29501953,8.83040625 C6.32046065,8.80980218 6.34367327,8.78658955 6.36427734,8.76114844 L10.5728555,3.56453906 C10.7357813,3.36336328 10.7047734,3.06819141 10.5035977,2.90525391 C10.420134,2.83766174 10.3159904,2.80078125 10.2085898,2.80078125 L1.79141016,2.80078125 C1.53254297,2.80078125 1.32266016,3.01065234 1.32266016,3.26953125 C1.32266016,3.37693327 1.35954815,3.48107695 1.42714453,3.56453906 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g filter="url(#filter-8)" id="下拉，展开备份-2">
+                    <g transform="translate(361.000000, 310.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M1.42714453,3.56453906 L5.63572266,8.76114844 C5.79866016,8.96233594 6.09383203,8.99334375 6.29501953,8.83040625 C6.32046065,8.80980218 6.34367327,8.78658955 6.36427734,8.76114844 L10.5728555,3.56453906 C10.7357813,3.36336328 10.7047734,3.06819141 10.5035977,2.90525391 C10.420134,2.83766174 10.3159904,2.80078125 10.2085898,2.80078125 L1.79141016,2.80078125 C1.53254297,2.80078125 1.32266016,3.01065234 1.32266016,3.26953125 C1.32266016,3.37693327 1.35954815,3.48107695 1.42714453,3.56453906 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g filter="url(#filter-9)" id="下拉，展开备份">
+                    <g transform="translate(74.000000, 338.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M1.42714453,3.56453906 L5.63572266,8.76114844 C5.79866016,8.96233594 6.09383203,8.99334375 6.29501953,8.83040625 C6.32046065,8.80980218 6.34367327,8.78658955 6.36427734,8.76114844 L10.5728555,3.56453906 C10.7357813,3.36336328 10.7047734,3.06819141 10.5035977,2.90525391 C10.420134,2.83766174 10.3159904,2.80078125 10.2085898,2.80078125 L1.79141016,2.80078125 C1.53254297,2.80078125 1.32266016,3.01065234 1.32266016,3.26953125 C1.32266016,3.37693327 1.35954815,3.48107695 1.42714453,3.56453906 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g filter="url(#filter-10)" id="下拉，展开备份-4">
+                    <g transform="translate(74.000000, 422.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M1.42714453,3.56453906 L5.63572266,8.76114844 C5.79866016,8.96233594 6.09383203,8.99334375 6.29501953,8.83040625 C6.32046065,8.80980218 6.34367327,8.78658955 6.36427734,8.76114844 L10.5728555,3.56453906 C10.7357813,3.36336328 10.7047734,3.06819141 10.5035977,2.90525391 C10.420134,2.83766174 10.3159904,2.80078125 10.2085898,2.80078125 L1.79141016,2.80078125 C1.53254297,2.80078125 1.32266016,3.01065234 1.32266016,3.26953125 C1.32266016,3.37693327 1.35954815,3.48107695 1.42714453,3.56453906 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g filter="url(#filter-11)" id="下拉，展开备份-3">
+                    <g transform="translate(361.000000, 338.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M1.42714453,3.56453906 L5.63572266,8.76114844 C5.79866016,8.96233594 6.09383203,8.99334375 6.29501953,8.83040625 C6.32046065,8.80980218 6.34367327,8.78658955 6.36427734,8.76114844 L10.5728555,3.56453906 C10.7357813,3.36336328 10.7047734,3.06819141 10.5035977,2.90525391 C10.420134,2.83766174 10.3159904,2.80078125 10.2085898,2.80078125 L1.79141016,2.80078125 C1.53254297,2.80078125 1.32266016,3.01065234 1.32266016,3.26953125 C1.32266016,3.37693327 1.35954815,3.48107695 1.42714453,3.56453906 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g filter="url(#filter-12)" id="下拉，展开备份-5">
+                    <g transform="translate(361.000000, 422.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M1.42714453,3.56453906 L5.63572266,8.76114844 C5.79866016,8.96233594 6.09383203,8.99334375 6.29501953,8.83040625 C6.32046065,8.80980218 6.34367327,8.78658955 6.36427734,8.76114844 L10.5728555,3.56453906 C10.7357813,3.36336328 10.7047734,3.06819141 10.5035977,2.90525391 C10.420134,2.83766174 10.3159904,2.80078125 10.2085898,2.80078125 L1.79141016,2.80078125 C1.53254297,2.80078125 1.32266016,3.01065234 1.32266016,3.26953125 C1.32266016,3.37693327 1.35954815,3.48107695 1.42714453,3.56453906 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <text id="可勾选" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="636" y="238">可勾选</tspan>
+                </text>
+                <path d="M896.001075,263.5 C896.691969,263.5 897.317552,263.778306 897.77,264.230329 C898.221271,264.681174 898.5,265.304684 898.5,265.9961 L898.5,265.9961 L898.5,292.0039 C898.5,292.692064 898.218839,293.314958 897.76701,293.766361 C897.313637,294.219308 896.688217,294.5 896.001075,294.5 L896.001075,294.5 L638.998925,294.5 C638.308031,294.5 637.682448,294.221694 637.23,293.769671 C636.778729,293.318826 636.5,292.695316 636.5,292.0039 L636.5,292.0039 L636.5,265.9961 C636.5,265.307936 636.781161,264.685042 637.23299,264.233639 C637.686363,263.780692 638.311783,263.5 638.998925,263.5 L638.998925,263.5 Z" id="Rectangle-26-Copy-23备份-2" stroke="#B30000" fill="#FFFFFF"></path>
+                <text id="Text备份-26" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.35">
+                    <tspan x="648" y="283">请选择</tspan>
+                </text>
+                <g id="下拉备份-3" transform="translate(875.000000, 271.000000)" fill-rule="nonzero">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M14.035375,4.56342188 C14.3282656,4.8563125 14.3282656,5.3311875 14.035375,5.62407813 L8.4448125,11.2146406 C8.20071875,11.4586875 7.80501562,11.4587031 7.56090625,11.2146719 L1.96965625,5.6240625 C1.67678125,5.33117188 1.67678125,4.85629688 1.96965625,4.56340625 C2.25964063,4.2734375 2.72795312,4.27054688 3.02148438,4.55470313 L3.03032813,4.56340625 L8.00251563,9.53559375 L12.9747031,4.56340625 C13.2676094,4.27051563 13.7424844,4.27051563 14.035375,4.56340625 L14.035375,4.56342188 Z" id="路径" fill="#ACAFB9"></path>
+                </g>
+                <g id="下拉备份-4" transform="translate(588.000000, 271.000000)" fill-rule="nonzero">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M14.035375,4.56342188 C14.3282656,4.8563125 14.3282656,5.3311875 14.035375,5.62407813 L8.4448125,11.2146406 C8.20071875,11.4586875 7.80501562,11.4587031 7.56090625,11.2146719 L1.96965625,5.6240625 C1.67678125,5.33117188 1.67678125,4.85629688 1.96965625,4.56340625 C2.25964063,4.2734375 2.72795312,4.27054688 3.02148438,4.55470313 L3.03032813,4.56340625 L8.00251563,9.53559375 L12.9747031,4.56340625 C13.2676094,4.27051563 13.7424844,4.27051563 14.035375,4.56340625 L14.035375,4.56342188 Z" id="路径" fill="#ACAFB9"></path>
+                </g>
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                </g>
+                <rect id="矩形备份-8" x="636" y="302" width="263" height="28"></rect>
+                <rect id="矩形备份-9" x="636" y="330" width="263" height="28"></rect>
+                <rect id="矩形备份-10" x="636" y="358" width="263" height="28"></rect>
+                <rect id="矩形备份-11" x="636" y="386" width="263" height="28"></rect>
+                <rect id="矩形备份-12" x="636" y="414" width="263" height="28"></rect>
+                <rect id="矩形备份-13" x="636" y="442" width="263" height="28"></rect>
+                <rect id="矩形备份-14" x="636" y="470" width="263" height="28"></rect>
+                <text id="Text备份-2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="668" y="320">联通系统集成有限公司</tspan>
+                </text>
+                <text id="Text备份-5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="668" y="348">北京分公司</tspan>
+                </text>
+                <text id="Text备份-8" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="668" y="432">山东分公司</tspan>
+                </text>
+                <text id="Text备份-6" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="690" y="374">XXX办公室</tspan>
+                </text>
+                <rect id="Rectangle" stroke-opacity="0.25" stroke="#000000" fill="#FFFFFF" x="668.5" y="393.5" width="13" height="13" rx="2"></rect>
+                <rect id="Rectangle备份-2" stroke-opacity="0.25" stroke="#000000" fill="#FFFFFF" x="668.5" y="477.5" width="13" height="13" rx="2"></rect>
+                <rect id="Rectangle备份" stroke-opacity="0.25" stroke="#000000" fill="#FFFFFF" x="668.5" y="365.5" width="13" height="13" rx="2"></rect>
+                <rect id="Rectangle备份-3" stroke-opacity="0.25" stroke="#000000" fill="#FFFFFF" x="668.5" y="449.5" width="13" height="13" rx="2"></rect>
+                <text id="Text备份-9" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="690" y="458">XXX办公室</tspan>
+                </text>
+                <text id="Text备份-7" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="690" y="402">XXX办公室</tspan>
+                </text>
+                <text id="Text备份-10" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                    <tspan x="690" y="486">XXX办公室</tspan>
+                </text>
+                <g filter="url(#filter-15)" id="下拉，展开">
+                    <g transform="translate(648.000000, 310.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M1.42714453,3.56453906 L5.63572266,8.76114844 C5.79866016,8.96233594 6.09383203,8.99334375 6.29501953,8.83040625 C6.32046065,8.80980218 6.34367327,8.78658955 6.36427734,8.76114844 L10.5728555,3.56453906 C10.7357813,3.36336328 10.7047734,3.06819141 10.5035977,2.90525391 C10.420134,2.83766174 10.3159904,2.80078125 10.2085898,2.80078125 L1.79141016,2.80078125 C1.53254297,2.80078125 1.32266016,3.01065234 1.32266016,3.26953125 C1.32266016,3.37693327 1.35954815,3.48107695 1.42714453,3.56453906 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g filter="url(#filter-16)" id="下拉，展开备份">
+                    <g transform="translate(648.000000, 338.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M1.42714453,3.56453906 L5.63572266,8.76114844 C5.79866016,8.96233594 6.09383203,8.99334375 6.29501953,8.83040625 C6.32046065,8.80980218 6.34367327,8.78658955 6.36427734,8.76114844 L10.5728555,3.56453906 C10.7357813,3.36336328 10.7047734,3.06819141 10.5035977,2.90525391 C10.420134,2.83766174 10.3159904,2.80078125 10.2085898,2.80078125 L1.79141016,2.80078125 C1.53254297,2.80078125 1.32266016,3.01065234 1.32266016,3.26953125 C1.32266016,3.37693327 1.35954815,3.48107695 1.42714453,3.56453906 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g filter="url(#filter-17)" id="下拉，展开备份-6">
+                    <g transform="translate(648.000000, 422.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M1.42714453,3.56453906 L5.63572266,8.76114844 C5.79866016,8.96233594 6.09383203,8.99334375 6.29501953,8.83040625 C6.32046065,8.80980218 6.34367327,8.78658955 6.36427734,8.76114844 L10.5728555,3.56453906 C10.7357813,3.36336328 10.7047734,3.06819141 10.5035977,2.90525391 C10.420134,2.83766174 10.3159904,2.80078125 10.2085898,2.80078125 L1.79141016,2.80078125 C1.53254297,2.80078125 1.32266016,3.01065234 1.32266016,3.26953125 C1.32266016,3.37693327 1.35954815,3.48107695 1.42714453,3.56453906 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <text id="级联选择器一般用于状态标记，需要和提交操" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="62" y="45">级联选择器一般用于状态标记，需要和提交操作配合</tspan>
+                </text>
+                <path d="M325.001269,75.5 C325.692106,75.5 326.317635,75.7783034 326.770046,76.2303171 C327.22129,76.6811654 327.5,77.3046805 327.5,77.9961002 L327.5,77.9961002 L327.5,104.0039 C327.5,104.693783 327.221295,105.318399 326.769073,105.770224 C326.317539,106.221361 325.693166,106.5 325.001269,106.5 L325.001269,106.5 L64.9987306,106.5 C64.3078942,106.5 63.6823649,106.221697 63.2299543,105.769683 C62.7787102,105.318835 62.5,104.69532 62.5,104.0039 L62.5,104.0039 L62.5,77.9961002 C62.5,77.3062167 62.7787053,76.6816012 63.2309267,76.2297765 C63.6824605,75.7786386 64.3068336,75.5 64.9987306,75.5 L64.9987306,75.5 Z" id="Rectangle-26-Copy-23" stroke="#B30000" fill="#FFFFFF"></path>
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-18"></use>
+                </g>
+                <rect id="矩形备份" fill="#FFF1F0" x="62" y="114" width="154" height="28"></rect>
+                <rect id="矩形备份-3" x="216" y="114" width="112" height="28"></rect>
+                <rect id="矩形备份-2" x="62" y="142" width="154" height="28"></rect>
+                <rect id="矩形备份-4" x="62" y="170" width="154" height="28"></rect>
+                <text id="联通系统集成公司" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="74" y="133">联通系统集成公司</tspan>
+                </text>
+                <g filter="url(#filter-20)" id="下拉">
+                    <g transform="translate(201.000000, 128.000000) scale(-1, 1) rotate(90.000000) translate(-201.000000, -128.000000) translate(194.000000, 121.000000)">
+                        <rect id="矩形" fill="#444A5E" fill-rule="nonzero" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                        <path d="M7.1763125,10.430875 C6.9374375,10.430875 6.708625,10.334625 6.5419375,10.164 L1.546125,5.0728125 C1.20579835,4.72177519 1.21281539,4.16180167 1.56183151,3.81940254 C1.91084764,3.47700341 2.47085289,3.4807048 2.8153125,3.8276875 L7.175875,8.2726875 L11.5364375,3.8276875 C11.8808971,3.4807048 12.4409024,3.47700341 12.7899185,3.81940254 C13.1389346,4.16180167 13.1459517,4.72177519 12.805625,5.0728125 L7.811125,10.1644375 C7.6435625,10.3350625 7.4151875,10.430875 7.1763125,10.430875 Z" id="路径" fill="#444A5E" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g filter="url(#filter-21)" id="下拉备份-2">
+                    <g transform="translate(313.000000, 128.000000) scale(-1, 1) rotate(90.000000) translate(-313.000000, -128.000000) translate(306.000000, 121.000000)">
+                        <rect id="矩形" fill="#444A5E" fill-rule="nonzero" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                        <path d="M7.1763125,10.430875 C6.9374375,10.430875 6.708625,10.334625 6.5419375,10.164 L1.546125,5.0728125 C1.20579835,4.72177519 1.21281539,4.16180167 1.56183151,3.81940254 C1.91084764,3.47700341 2.47085289,3.4807048 2.8153125,3.8276875 L7.175875,8.2726875 L11.5364375,3.8276875 C11.8808971,3.4807048 12.4409024,3.47700341 12.7899185,3.81940254 C13.1389346,4.16180167 13.1459517,4.72177519 12.805625,5.0728125 L7.811125,10.1644375 C7.6435625,10.3350625 7.4151875,10.430875 7.1763125,10.430875 Z" id="路径" fill="#444A5E" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g filter="url(#filter-22)" id="下拉备份">
+                    <g transform="translate(201.000000, 156.000000) scale(-1, 1) rotate(90.000000) translate(-201.000000, -156.000000) translate(194.000000, 149.000000)">
+                        <rect id="矩形" fill="#444A5E" fill-rule="nonzero" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                        <path d="M7.1763125,10.430875 C6.9374375,10.430875 6.708625,10.334625 6.5419375,10.164 L1.546125,5.0728125 C1.20579835,4.72177519 1.21281539,4.16180167 1.56183151,3.81940254 C1.91084764,3.47700341 2.47085289,3.4807048 2.8153125,3.8276875 L7.175875,8.2726875 L11.5364375,3.8276875 C11.8808971,3.4807048 12.4409024,3.47700341 12.7899185,3.81940254 C13.1389346,4.16180167 13.1459517,4.72177519 12.805625,5.0728125 L7.811125,10.1644375 C7.6435625,10.3350625 7.4151875,10.430875 7.1763125,10.430875 Z" id="路径" fill="#444A5E" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g filter="url(#filter-23)" id="下拉备份-3">
+                    <g transform="translate(201.000000, 184.000000) scale(-1, 1) rotate(90.000000) translate(-201.000000, -184.000000) translate(194.000000, 177.000000)">
+                        <rect id="矩形" fill="#444A5E" fill-rule="nonzero" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                        <path d="M7.1763125,10.430875 C6.9374375,10.430875 6.708625,10.334625 6.5419375,10.164 L1.546125,5.0728125 C1.20579835,4.72177519 1.21281539,4.16180167 1.56183151,3.81940254 C1.91084764,3.47700341 2.47085289,3.4807048 2.8153125,3.8276875 L7.175875,8.2726875 L11.5364375,3.8276875 C11.8808971,3.4807048 12.4409024,3.47700341 12.7899185,3.81940254 C13.1389346,4.16180167 13.1459517,4.72177519 12.805625,5.0728125 L7.811125,10.1644375 C7.6435625,10.3350625 7.4151875,10.430875 7.1763125,10.430875 Z" id="路径" fill="#444A5E" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <text id="联通集团总部" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="74" y="161">联通集团总部</tspan>
+                </text>
+                <text id="联通集团总部备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="74" y="189">联通集团总部</tspan>
+                </text>
+                <text id="北京分公司" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="228" y="133">北京分公司</tspan>
+                </text>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.35">
+                    <tspan x="74" y="95">请选择</tspan>
+                </text>
+                <line x1="216" y1="111" x2="215" y2="200.998656" id="直线" stroke="#D8D8D8" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>

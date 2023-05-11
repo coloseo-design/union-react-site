@@ -1,0 +1,41 @@
+@import "../styles/global.less";
+
+.login {
+  &-list {
+    & > .item {
+      margin-top: 40px;
+      &:not(:last-child) {
+        border-bottom: 1px solid #d8d8d8;
+      }
+      &:last-child {
+        .item-title {
+          margin-bottom: 8px;
+        }
+      }
+      &::after {
+        content: "";
+        display: block;
+        clear: both;
+      }
+      & > .item-float {
+        float: left;
+        width: 40%;
+        & + img {
+          float: right;
+          margin-bottom: 40px;
+        }
+      }
+      & > .item-content {
+        & > .item-title {
+          font-size: 24px;
+          color: #e98a00;
+        }
+        & > .item-description {
+          font-size: 14px;
+          padding: 8px 0 40px 0;
+          color: rgba(0, 0, 0, 0.85);
+        }
+      }
+    }
+  }
+}

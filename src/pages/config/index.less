@@ -1,0 +1,39 @@
+.config {
+  color: #232426;
+  h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  .config-section {
+    margin-top: 48px;
+    line-height: 28px;
+    ul {
+      margin: 12px 0px;
+    }
+    ul li {
+      list-style: none;
+      margin-bottom: 8px;
+      line-height: 1;
+      &::before {
+        content: ' ';
+        display: inline-block;
+        width: 8px;
+        height: 8px;
+        border: 1px solid #232426;
+        border-radius: 8px;
+        margin-right: 6px;
+      }
+    }
+    .other {
+      line-height: 20px;
+      display: inline-block;
+      padding: 4px;
+      background-color: #fff;
+      color: #d56161;
+      border-radius: 3px;
+    }
+  }
+}

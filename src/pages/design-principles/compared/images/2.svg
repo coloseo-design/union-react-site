@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="150px" viewBox="0 0 540 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="540" height="150"></rect>
+        <path d="M5.42906897,0.786851351 C5.52351724,0.786851351 5.61434483,0.821856486 5.68458621,0.885626757 L9.3567931,4.21218973 C9.51589655,4.3559627 9.53017241,4.60373919 9.38906897,4.76528351 C9.384,4.77158676 9.37882759,4.77681486 9.37365517,4.78259108 L5.70103448,8.52416676 C5.55072414,8.67732081 5.30751724,8.67732081 5.1572069,8.52416676 C5.08489655,8.4504673 5.04434483,8.35061676 5.04434483,8.24653946 L5.04434483,6.05662622 C4.35268966,6.0142427 2.90068966,6.01270378 0.687724138,6.05186189 C0.545586207,6.05447595 0.429103448,5.93946811 0.426517241,5.79523135 L0.426517241,3.70663378 C0.426517241,3.56232324 0.541448276,3.44523892 0.683068966,3.44523892 L0.685655172,3.44523892 C3.31831034,3.47139 4.77134483,3.47031486 5.04434483,3.44262486 L5.04434483,1.17893838 C5.04434483,0.962467297 5.21668966,0.786851351 5.42906897,0.786851351 Z" id="path-3"></path>
+        <path d="M5.42906897,0.786851351 C5.52351724,0.786851351 5.61434483,0.821856486 5.68458621,0.885626757 L9.3567931,4.21218973 C9.51589655,4.3559627 9.53017241,4.60373919 9.38906897,4.76528351 C9.384,4.77158676 9.37882759,4.77681486 9.37365517,4.78259108 L5.70103448,8.52416676 C5.55072414,8.67732081 5.30751724,8.67732081 5.1572069,8.52416676 C5.08489655,8.4504673 5.04434483,8.35061676 5.04434483,8.24653946 L5.04434483,6.05662622 C4.35268966,6.0142427 2.90068966,6.01270378 0.687724138,6.05186189 C0.545586207,6.05447595 0.429103448,5.93946811 0.426517241,5.79523135 L0.426517241,3.70663378 C0.426517241,3.56232324 0.541448276,3.44523892 0.683068966,3.44523892 L0.685655172,3.44523892 C3.31831034,3.47139 4.77134483,3.47031486 5.04434483,3.44262486 L5.04434483,1.17893838 C5.04434483,0.962467297 5.21668966,0.786851351 5.42906897,0.786851351 Z" id="path-5"></path>
+        <path d="M5.42906897,0.786851351 C5.52351724,0.786851351 5.61434483,0.821856486 5.68458621,0.885626757 L9.3567931,4.21218973 C9.51589655,4.3559627 9.53017241,4.60373919 9.38906897,4.76528351 C9.384,4.77158676 9.37882759,4.77681486 9.37365517,4.78259108 L5.70103448,8.52416676 C5.55072414,8.67732081 5.30751724,8.67732081 5.1572069,8.52416676 C5.08489655,8.4504673 5.04434483,8.35061676 5.04434483,8.24653946 L5.04434483,6.05662622 C4.35268966,6.0142427 2.90068966,6.01270378 0.687724138,6.05186189 C0.545586207,6.05447595 0.429103448,5.93946811 0.426517241,5.79523135 L0.426517241,3.70663378 C0.426517241,3.56232324 0.541448276,3.44523892 0.683068966,3.44523892 L0.685655172,3.44523892 C3.31831034,3.47139 4.77134483,3.47031486 5.04434483,3.44262486 L5.04434483,1.17893838 C5.04434483,0.962467297 5.21668966,0.786851351 5.42906897,0.786851351 Z" id="path-7"></path>
+    </defs>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设计原则-对比" transform="translate(-720.000000, -1189.000000)">
+            <g id="矩形" transform="translate(720.000000, 1189.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <rect stroke="#E8E7E7" fill="#FFFFFF" mask="url(#mask-2)" x="7.5" y="17.5" width="171" height="116"></rect>
+                <rect id="矩形备份-24" stroke="#E8E7E7" fill="#FFFFFF" mask="url(#mask-2)" x="361.5" y="17.5" width="171" height="116"></rect>
+                <rect id="矩形备份-26" stroke="#E8E7E7" fill="#FFFFFF" mask="url(#mask-2)" x="184.5" y="17.5" width="171" height="116"></rect>
+                <text id="200" mask="url(#mask-2)" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="26" y="119">200 </tspan>
+                </text>
+                <text id="200备份-3" mask="url(#mask-2)" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="380" y="119">200 </tspan>
+                </text>
+                <text id="200备份-6" mask="url(#mask-2)" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="280" y="49">200 </tspan>
+                </text>
+                <text id="200备份" mask="url(#mask-2)" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="78" y="120">200 </tspan>
+                </text>
+                <text id="200备份-4" mask="url(#mask-2)" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="432" y="120">200 </tspan>
+                </text>
+                <text id="200备份-7" mask="url(#mask-2)" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="280" y="85">200 </tspan>
+                </text>
+                <text id="200备份-2" mask="url(#mask-2)" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="133" y="119">200 </tspan>
+                </text>
+                <text id="200备份-5" mask="url(#mask-2)" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="487" y="119">200 </tspan>
+                </text>
+                <text id="200备份-8" mask="url(#mask-2)" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="280" y="121">200 </tspan>
+                </text>
+                <text id="128" mask="url(#mask-2)" font-family="PingFangSC-Medium, PingFang SC" font-size="36" font-weight="400" fill="#000000" fill-opacity="0.85">
+                    <tspan x="26" y="74">128</tspan>
+                </text>
+                <text id="128备份" mask="url(#mask-2)" font-family="PingFangSC-Medium, PingFang SC" font-size="36" font-weight="400" fill="#000000" fill-opacity="0.85">
+                    <tspan x="414" y="78">128</tspan>
+                </text>
+                <text id="128备份-2" mask="url(#mask-2)" font-family="PingFangSC-Medium, PingFang SC" font-size="36" font-weight="400" fill="#000000" fill-opacity="0.85">
+                    <tspan x="197" y="87">128</tspan>
+                </text>
+                <rect id="矩形备份-23" fill="#E8E7E7" mask="url(#mask-2)" x="8" y="94" width="170" height="1"></rect>
+                <rect id="矩形备份-27" fill="#E8E7E7" mask="url(#mask-2)" transform="translate(268.500000, 75.500000) rotate(-270.000000) translate(-268.500000, -75.500000) " x="211" y="75" width="115" height="1"></rect>
+                <g id="编组" mask="url(#mask-2)">
+                    <g transform="translate(158.000000, 29.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-63" stroke="none" fill="none"></g>
+                        <polygon id="Fill-62" stroke="none" fill="#131026" fill-rule="evenodd" mask="url(#mask-4)" points="-3.34831034 12.4853546 13.2610448 12.4853546 13.2610448 -3.05942351 -3.34831034 -3.05942351"></polygon>
+                    </g>
+                </g>
+                <g id="编组备份" mask="url(#mask-2)">
+                    <g transform="translate(512.000000, 29.000000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="Clip-63" stroke="none" fill="none"></g>
+                        <polygon id="Fill-62" stroke="none" fill="#131026" fill-rule="evenodd" mask="url(#mask-6)" points="-3.34831034 12.4853546 13.2610448 12.4853546 13.2610448 -3.05942351 -3.34831034 -3.05942351"></polygon>
+                    </g>
+                </g>
+                <g id="编组备份-2" mask="url(#mask-2)">
+                    <g transform="translate(332.000000, 73.000000)">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <g id="Clip-63" stroke="none" fill="none"></g>
+                        <polygon id="Fill-62" stroke="none" fill="#131026" fill-rule="evenodd" mask="url(#mask-8)" points="-3.34831034 12.4853546 13.2610448 12.4853546 13.2610448 -3.05942351 -3.34831034 -3.05942351"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

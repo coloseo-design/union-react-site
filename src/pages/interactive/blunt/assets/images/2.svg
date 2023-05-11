@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="333px" viewBox="0 0 540 333" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0.250000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="交互原则-直截了当" transform="translate(-720.000000, -1007.000000)">
+            <g id="2" transform="translate(720.000000, 1007.000000)">
+                <rect id="矩形备份-3" fill="#FFFFFF" x="0" y="0" width="540" height="333"></rect>
+                <rect id="矩形备份-6" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="127.5" y="249.5" width="68" height="23" rx="2"></rect>
+                <rect id="矩形备份-9" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="261.5" y="249.5" width="158" height="43" rx="2"></rect>
+                <text id="状态1备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.649885271">
+                    <tspan x="27" y="40">状态1</tspan>
+                </text>
+                <text id="状态1备份-2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.649885271">
+                    <tspan x="27" y="178">状态1</tspan>
+                </text>
+                <text id="编辑备份-3" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#B30000">
+                    <tspan x="450" y="128">编辑</tspan>
+                </text>
+                <text id="保存" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#B30000">
+                    <tspan x="450" y="266">保存</tspan>
+                </text>
+                <rect id="矩形" fill-opacity="0.0468203671" fill="#000000" x="27" y="61" width="486" height="40"></rect>
+                <rect id="矩形备份-5" fill-opacity="0.0468203671" fill="#000000" x="27" y="199" width="486" height="40"></rect>
+                <rect id="矩形备份-41" fill="#BEBEBE" x="44" y="75" width="60" height="12"></rect>
+                <rect id="矩形备份-42" fill="#BEBEBE" x="44" y="213" width="60" height="12"></rect>
+                <rect id="矩形备份-44" fill="#F1F1F1" x="44" y="117" width="60" height="12"></rect>
+                <rect id="矩形备份-45" fill="#F1F1F1" x="44" y="255" width="60" height="12"></rect>
+                <rect id="矩形备份-47" fill="#BEBEBE" x="128" y="75" width="60" height="12"></rect>
+                <rect id="矩形备份-48" fill="#BEBEBE" x="128" y="213" width="60" height="12"></rect>
+                <rect id="矩形备份-53" fill="#BEBEBE" x="261" y="75" width="60" height="12"></rect>
+                <rect id="矩形备份-57" fill="#BEBEBE" x="261" y="213" width="60" height="12"></rect>
+                <rect id="矩形备份-54" fill="#BEBEBE" x="442" y="74" width="40" height="12"></rect>
+                <rect id="矩形备份-58" fill="#BEBEBE" x="442" y="212" width="40" height="12"></rect>
+                <rect id="矩形备份-55" fill="#F1F1F1" x="128" y="117" width="40" height="12"></rect>
+                <rect id="矩形备份-59" fill="#F1F1F1" x="134" y="255" width="40" height="12"></rect>
+                <rect id="矩形备份-56" fill="#F1F1F1" x="260" y="117" width="142" height="12"></rect>
+                <rect id="矩形备份-60" fill="#F1F1F1" x="269" y="255" width="142" height="12"></rect>
+                <rect id="矩形备份-61" fill="#F1F1F1" x="269" y="275" width="83" height="12"></rect>
+                <rect id="矩形备份-8" fill-opacity="0.85" fill="#000000" x="355" y="274" width="1" height="14"></rect>
+                <text id="取消备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.35">
+                    <tspan x="485" y="268">取消</tspan>
+                </text>
+                <rect id="矩形" fill-opacity="0.35" fill="#000000" x="27" y="146" width="468" height="1"></rect>
+                <g filter="url(#filter-1)" id="下拉">
+                    <g transform="translate(177.000000, 253.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        <path d="M8.2015,11.921 C7.9285,11.921 7.667,11.811 7.4765,11.616 L1.767,5.7975 C1.37805526,5.39631451 1.38607473,4.75634477 1.7849503,4.36503147 C2.18382587,3.97371818 2.82383187,3.97794834 3.2175,4.3745 L8.201,9.4545 L13.1845,4.3745 C13.5781681,3.97794834 14.2181741,3.97371818 14.6170497,4.36503147 C15.0159253,4.75634477 15.0239447,5.39631451 14.635,5.7975 L8.927,11.6165 C8.7355,11.8115 8.4745,11.921 8.2015,11.921 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="333px" viewBox="0 0 540 333" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="交互原则-直截了当" transform="translate(-720.000000, -577.000000)">
+            <g id="1" transform="translate(720.000000, 577.000000)">
+                <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="540" height="333"></rect>
+                <text id="状态1" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.649885271">
+                    <tspan x="79" y="38">状态1</tspan>
+                </text>
+                <text id="状态2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.649885271">
+                    <tspan x="79" y="138">状态2</tspan>
+                </text>
+                <text id="状态3" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.649885271">
+                    <tspan x="79" y="246">状态3</tspan>
+                </text>
+                <text id="编辑" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#B30000">
+                    <tspan x="239" y="62">编辑</tspan>
+                </text>
+                <text id="编辑备份" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#B30000">
+                    <tspan x="239" y="162">编辑</tspan>
+                </text>
+                <rect id="矩形备份-29" fill="#BEBEBE" x="79" y="51" width="60" height="12"></rect>
+                <rect id="矩形备份-33" fill="#BEBEBE" x="79" y="151" width="60" height="12"></rect>
+                <rect id="矩形备份-37" fill="#BEBEBE" x="79" y="259" width="60" height="12"></rect>
+                <rect id="矩形备份-31" fill="#BEBEBE" x="79" y="79" width="60" height="12"></rect>
+                <rect id="矩形备份-34" fill="#BEBEBE" x="79" y="179" width="60" height="12"></rect>
+                <rect id="矩形备份-38" fill="#BEBEBE" x="79" y="287" width="60" height="12"></rect>
+                <rect id="矩形" fill="#E6F7FF" x="162" y="146" width="154" height="23" rx="2"></rect>
+                <rect id="矩形备份-30" fill="#BEBEBE" x="163" y="51" width="60" height="12"></rect>
+                <rect id="矩形备份-35" fill="#BEBEBE" x="163" y="151" width="60" height="12"></rect>
+                <rect id="矩形" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="163.5" y="254.5" width="153" height="22" rx="2"></rect>
+                <rect id="矩形备份-32" fill="#BEBEBE" x="163" y="79" width="298" height="12"></rect>
+                <rect id="矩形备份-36" fill="#BEBEBE" x="163" y="179" width="298" height="12"></rect>
+                <rect id="矩形备份-40" fill="#BEBEBE" x="163" y="287" width="298" height="12"></rect>
+                <path d="M227,141 C225.895431,141 225,140.104569 225,139 L225,114 C225,112.895431 225.895431,112 227,112 L287,112 C288.104569,112 289,112.895431 289,114 L289,139 C289,140.104569 288.104569,141 287,141 L253,141 L249.5,146 L246,141 L227,141 Z" id="形状结合" fill="#3E4767"></path>
+                <text id="点击编辑" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="232" y="130">点击编辑</tspan>
+                </text>
+                <rect id="矩形备份-39" fill="#BEBEBE" x="173" y="259" width="100" height="12"></rect>
+                <rect id="矩形" fill-opacity="0.85" fill="#000000" x="277" y="258" width="1" height="14"></rect>
+                <rect id="矩形" fill="#B30000" x="333" y="253" width="60" height="24" rx="2"></rect>
+                <text id="确定" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="349" y="270">确定</tspan>
+                </text>
+                <rect id="矩形备份" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="401.5" y="253.5" width="59" height="23" rx="2"></rect>
+                <text id="取消" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.35">
+                    <tspan x="417" y="270">取消</tspan>
+                </text>
+                <g id="手指" transform="translate(254.000000, 151.000000)" fill="#000000" fill-rule="nonzero">
+                    <rect id="矩形" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M6.33258738,3.56026389 C6.65737859,3.56026389 7.03668719,3.72413601 7.38506372,4.35428106 L7.38506372,4.35428106 L7.39791042,7.98896173 C7.61901548,7.83987125 7.91032864,7.71092911 8.24586212,7.72559375 C8.56162971,7.73939452 8.92609336,7.87205447 9.30888184,8.25878285 C9.52955601,8.02426585 9.89206085,7.74600707 10.3472526,7.76140895 C10.6512126,7.77169375 11.0100232,7.90466171 11.4012496,8.30365431 C12.7191863,7.74435102 13.0729717,8.02020368 13.43575,8.80867187 L13.43575,8.80867187 L13.4350285,14.0440827 C13.428222,14.1396729 13.3588161,14.626894 12.4943295,15.1593594 L12.4943295,15.1593594 L6.10875745,15.1593594 L2.56422388,10.7318957 C2.55267535,10.6548539 2.51285563,10.2840433 2.62746825,9.94149487 C3.25240069,9.22505082 3.64816604,9.20231669 4.27446213,9.47528749 C4.64661312,9.64228777 4.92834054,9.87846132 5.1350488,10.108231 L5.1350488,10.108231 L5.16325619,4.34538929 C5.2052564,4.2814466 5.71827813,3.56026389 6.33258738,3.56026389 Z M6.259,0.859375 C7.28401581,0.859375 8.21225588,1.27507857 8.88423551,1.94705517 C9.55621677,2.61903339 9.97192187,3.5472714 9.97192187,4.57228125 C9.97192187,6.09499315 9.04453154,7.38802549 7.73482813,7.96503527 L7.73482813,7.96503527 L7.73482812,6.34940705 C8.24797321,5.92009413 8.58271875,5.28085842 8.58271875,4.55853125 C8.58271875,3.91323705 8.32096576,3.32886291 7.89790898,2.90580612 C7.47485691,2.48275406 6.89048856,2.221 6.2451875,2.221 C5.59990669,2.221 5.01556159,2.48275441 4.59252623,2.90580255 C4.16947927,3.32886229 3.90773438,3.91324005 3.90773438,4.55853125 C3.90773437,5.29574219 4.25662191,5.94450304 4.7883125,6.3745148 L4.7883125,6.3745148 L4.7883125,7.96646112 C4.05557646,7.64594995 3.44232883,7.1009886 3.04349893,6.41692711 C2.72768042,5.87524436 2.54609375,5.24638339 2.54609375,4.57228125 C2.54609375,3.5472704 2.96179576,2.61903171 3.63377402,1.94705345 C4.30574957,1.2750779 5.23398488,0.859375 6.259,0.859375 Z" id="形状" stroke="#FFFFFF" stroke-width="0.5" fill-opacity="0.649885271"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

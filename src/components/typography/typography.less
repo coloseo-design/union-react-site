@@ -1,0 +1,74 @@
+@import '../style/themes/index.less';
+@import '../style/mixins/index.less';
+
+@typography-width-base: 960px;
+@typography-margin-bottom-base: 24px;
+@typography-right-width-base: 540px;
+@typography-title-font-weight: 400;
+@line-height-base: 2.0;
+
+.site-typography {
+  width: 100%;
+  color: @black;
+  overflow-wrap: break-word;
+}
+
+.site-typography-without-vertical {
+  display: flex;
+  justify-content: space-between;
+}
+
+.site-typography-left {
+  flex: 1;
+  margin-right: 60px;
+}
+
+.site-typography-right {
+  width: @typography-right-width-base;
+}
+
+.site-typography-title,
+.site-typography-without-title {
+  font-weight: @typography-title-font-weight;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-bottom: 0px;
+    font-weight: @typography-title-font-weight;
+  }
+}
+
+.site-typography-title {
+  margin-bottom: 8px;
+}
+
+.site-typography-descriptions {
+  &-item {
+    margin-bottom: @typography-margin-bottom-base;
+    font-size: @font-size-base;
+    font-family: @font-family;
+    line-height: @line-height-base;
+
+    text-align: justify;
+    text-justify: inter-cluster;
+
+    &:first-child {
+      margin-bottom: 0px;
+    }
+  }
+}
+
+.site-typography-pic {
+  img {
+    width: 100%;
+  }
+}
+
+.site-typography-without-pic,
+.site-typography-without-descriptions {
+  width: 100%;
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="292px" viewBox="0 0 540 292" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3</title>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设计原则-对齐" transform="translate(-720.000000, -1530.000000)">
+            <g id="3" transform="translate(720.000000, 1530.000000)">
+                <rect id="矩形备份-78" fill="#FFFFFF" x="0" y="0" width="540" height="292"></rect>
+                <text id="Do（右对齐）" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="81" y="251">Do（右对齐）</tspan>
+                </text>
+                <text id="Don’t（左对齐）" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="399" y="251">Don’t（左对齐）</tspan>
+                </text>
+                <text id="-69.00" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="172.234" y="53">-69.00</tspan>
+                </text>
+                <text id="-69.00备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="444" y="53">-69.00</tspan>
+                </text>
+                <text id="-98.00" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="172.234" y="91">-98.00</tspan>
+                </text>
+                <text id="-98.00备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="444" y="91">-98.00</tspan>
+                </text>
+                <text id="+198.00" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="166.62" y="125">+198.00</tspan>
+                </text>
+                <text id="+198.00备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="444" y="125">+198.00</tspan>
+                </text>
+                <text id="+198.76" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="167.362" y="160">+198.76</tspan>
+                </text>
+                <text id="+198.76" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="444" y="160">+198.76</tspan>
+                </text>
+                <text id="+19899.76" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="150.562" y="195">+19899.76</tspan>
+                </text>
+                <text id="+19899.76" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="444" y="195">+19899.76</tspan>
+                </text>
+                <rect id="矩形备份-34" fill="#BEBEBE" x="31" y="43" width="46" height="15"></rect>
+                <rect id="矩形备份-39" fill="#BEBEBE" x="307" y="43" width="46" height="15"></rect>
+                <rect id="矩形备份-37" fill="#BEBEBE" x="31" y="78" width="60" height="15"></rect>
+                <rect id="矩形备份-40" fill="#BEBEBE" x="307" y="78" width="60" height="15"></rect>
+                <rect id="矩形备份-35" fill="#BEBEBE" x="31" y="147" width="60" height="15"></rect>
+                <rect id="矩形备份-41" fill="#BEBEBE" x="307" y="147" width="60" height="15"></rect>
+                <rect id="矩形备份-38" fill="#BEBEBE" x="31" y="182" width="42" height="15"></rect>
+                <rect id="矩形备份-42" fill="#BEBEBE" x="307" y="182" width="42" height="15"></rect>
+                <rect id="矩形备份-36" fill="#BEBEBE" x="31" y="113" width="83" height="15"></rect>
+                <rect id="矩形备份-43" fill="#BEBEBE" x="307" y="113" width="83" height="15"></rect>
+                <line x1="222" y1="31" x2="222" y2="211" id="直线-3备份-3" stroke="#B30000" stroke-width="3" stroke-linecap="square" stroke-dasharray="7"></line>
+                <line x1="442" y1="30" x2="442" y2="210" id="直线-3备份-4" stroke="#B30000" stroke-width="3" stroke-linecap="square" stroke-dasharray="7"></line>
+            </g>
+        </g>
+    </g>
+</svg>

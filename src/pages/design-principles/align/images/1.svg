@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="247px" viewBox="0 0 540 247" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设计原则-对齐" transform="translate(-720.000000, -769.000000)">
+            <g id="1" transform="translate(720.000000, 769.000000)">
+                <rect id="矩形备份-77" fill="#FFFFFF" x="0" y="0" width="540" height="247"></rect>
+                <rect id="矩形" fill="#D8D8D8" x="53" y="14" width="144" height="19"></rect>
+                <rect id="矩形备份-10" fill="#D8D8D8" x="306" y="14" width="144" height="19"></rect>
+                <rect id="矩形备份-3" fill="#D8D8D8" x="53" y="81" width="144" height="19"></rect>
+                <rect id="矩形备份-17" fill="#D8D8D8" x="306" y="81" width="144" height="19"></rect>
+                <rect id="矩形备份-8" fill="#D8D8D8" x="53" y="147" width="144" height="19"></rect>
+                <rect id="矩形备份-18" fill="#D8D8D8" x="306" y="147" width="144" height="19"></rect>
+                <rect id="矩形备份" fill="#F1F1F1" x="53" y="50" width="89" height="15"></rect>
+                <rect id="矩形备份-19" fill="#F1F1F1" x="348" y="50" width="89" height="15"></rect>
+                <rect id="矩形备份-6" fill="#F1F1F1" x="53" y="116" width="108" height="15"></rect>
+                <rect id="矩形备份-21" fill="#F1F1F1" x="348" y="116" width="78" height="15"></rect>
+                <rect id="矩形备份-9" fill="#F1F1F1" x="53" y="182" width="165" height="15"></rect>
+                <rect id="矩形备份-22" fill="#F1F1F1" x="348" y="182" width="156" height="15"></rect>
+                <line x1="49.5" y1="14.5202312" x2="49.5" y2="193.479769" id="直线-3" stroke="#B30000" stroke-width="3" stroke-linecap="square" stroke-dasharray="7"></line>
+                <line x1="302.5" y1="14.5202312" x2="302.5" y2="193.479769" id="直线-3" stroke="#B30000" stroke-width="3" stroke-linecap="square" stroke-dasharray="7"></line>
+                <line x1="347.5" y1="52" x2="347.5" y2="200" id="直线-3备份" stroke="#B30000" stroke-width="3" stroke-linecap="square" stroke-dasharray="7"></line>
+                <text id="Do（左对齐）" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="50" y="229">Do（左对齐）</tspan>
+                </text>
+                <text id="Don’t" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="303" y="229">Don’t</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

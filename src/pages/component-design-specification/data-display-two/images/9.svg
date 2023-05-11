@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="142px" viewBox="0 0 540 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>9</title>
+    <defs>
+        <path d="M189,60 L243,60 C244.656854,60 246,61.3431458 246,63 L246,79 C246,80.6568542 244.656854,82 243,82 L189,82 C187.343146,82 186,80.6568542 186,79 L186,63 C186,61.3431458 187.343146,60 189,60 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="60" height="22" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <filter id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.674510 0 0 0 0 0.686275 0 0 0 0 0.725490 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-4">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.674510 0 0 0 0 0.686275 0 0 0 0 0.725490 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件设计规范备份--数据展示备份" transform="translate(-720.000000, -4383.000000)">
+            <g id="9" transform="translate(720.000000, 4383.000000)">
+                <rect id="矩形备份-6" fill="#FFFFFF" x="0" y="0" width="540" height="142"></rect>
+                <rect id="Rectangle" stroke="#C8CAD1" fill="#E9EBF0" x="40" y="60" width="40" height="22" rx="3"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                    <tspan x="48" y="74">标签</tspan>
+                </text>
+                <use id="Rectangle-1152" stroke-opacity="0.35" stroke="#000000" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" stroke-dasharray="7,3" xlink:href="#path-1"></use>
+                <text id="标签" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                    <tspan x="214" y="74">标签</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#C8CAD1" fill="#E9EBF0" x="104" y="60" width="60" height="22" rx="3"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                    <tspan x="112" y="74">标签</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#91D5FF" fill="#E6F7FF" x="332.5" y="60.5" width="39" height="21" rx="3"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#1890FF">
+                    <tspan x="340" y="74">蓝色</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#FFE58F" fill="#FFFBE6" x="396.5" y="60.5" width="39" height="21" rx="3"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#FAAD14">
+                    <tspan x="404" y="74">金色</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#FFA39E" fill="#FFF1F0" x="460.5" y="60.5" width="39" height="21" rx="3"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#FF4D4F">
+                    <tspan x="468" y="74">红色</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#B7EB8F" fill="#F6FFED" x="268.5" y="60.5" width="39" height="21" rx="3"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#52C41A">
+                    <tspan x="276" y="74">绿色</tspan>
+                </text>
+                <g filter="url(#filter-3)" id="叉号，删除，关闭">
+                    <g transform="translate(144.000000, 65.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M8.90585156,2.38734375 C9.12551953,2.16767578 9.48167578,2.16767578 9.70134375,2.38734375 C9.91882031,2.60482031 9.92098828,2.95605469 9.70787109,3.17621484 L9.70134375,3.18283594 L6.79194141,6.09225 L9.70871484,9.00901172 C9.92838281,9.22867969 9.92838281,9.58483594 9.70871484,9.80450391 C9.48904688,10.0241719 9.13289063,10.0241719 8.91322266,9.80450391 L5.99644922,6.88773047 L3.08879297,9.79538672 C2.87131641,10.0128633 2.52008203,10.015043 2.29992187,9.80191406 L2.29328906,9.79539844 C2.07582422,9.57792188 2.07364453,9.2266875 2.28677344,9.00652734 L2.29328906,8.99989453 L5.20094531,6.09223828 L2.30067187,3.19195313 C2.08100391,2.97227344 2.08100391,2.61612891 2.30067187,2.39644922 C2.52033984,2.17678125 2.87649609,2.17678125 3.09616406,2.39644922 L5.9964375,5.29673438 L8.90585156,2.38734375 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g filter="url(#filter-4)" id="加号，添加，增加">
+                    <g transform="translate(194.000000, 65.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M1.78125,5.4375 L10.21875,5.4375 C10.4776289,5.4375 10.6875,5.64737109 10.6875,5.90625 L10.6875,6.09375 C10.6875,6.35262891 10.4776289,6.5625 10.21875,6.5625 L1.78125,6.5625 C1.52237109,6.5625 1.3125,6.35262891 1.3125,6.09375 L1.3125,5.90625 C1.3125,5.64737109 1.52237109,5.4375 1.78125,5.4375 Z M6.5625,1.78125 L6.5625,10.21875 C6.5625,10.4776289 6.35262891,10.6875 6.09375,10.6875 L5.90625,10.6875 C5.64737109,10.6875 5.4375,10.4776289 5.4375,10.21875 L5.4375,1.78125 C5.4375,1.52237109 5.64737109,1.3125 5.90625,1.3125 L6.09375,1.3125 C6.35262891,1.3125 6.5625,1.52237109 6.5625,1.78125 Z" id="形状" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

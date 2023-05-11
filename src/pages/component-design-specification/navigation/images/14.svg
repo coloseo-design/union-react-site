@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="277px" viewBox="0 0 540 277" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>14</title>
+    <defs>
+        <rect id="path-1" x="104" y="25" width="428" height="25"></rect>
+        <filter x="-1.2%" y="-28.0%" width="103.3%" height="156.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.576470588   0 0 0 0 0.576470588   0 0 0 0 0.576470588  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件设计规范备份--导航" transform="translate(-720.000000, -5433.000000)">
+            <g id="14" transform="translate(720.000000, 5433.000000)">
+                <rect id="矩形备份-67" fill="#C8C9CB" x="0" y="0" width="540" height="277"></rect>
+                <rect id="矩形备份-68" fill="#B30000" x="0" y="0" width="540" height="25"></rect>
+                <rect id="矩形备份-69" fill="#929292" x="0" y="25" width="97" height="252"></rect>
+                <rect id="矩形备份-70" fill="#FFFFFF" x="104" y="56" width="428" height="214"></rect>
+                <rect id="矩形备份-73" fill="#D8D8D8" x="12" y="50" width="72" height="15"></rect>
+                <rect id="矩形备份-74" fill="#D8D8D8" x="12" y="74" width="72" height="15"></rect>
+                <rect id="矩形备份-75" fill="#D8D8D8" x="12" y="98" width="72" height="15"></rect>
+                <rect id="矩形备份-76" fill="#D8D8D8" x="12" y="122" width="72" height="15"></rect>
+                <rect id="矩形备份-77" fill="#D8D8D8" x="12" y="146" width="72" height="15"></rect>
+                <rect id="矩形备份-78" fill="#D8D8D8" x="12" y="170" width="72" height="15"></rect>
+                <text id="China-Unicom备份-3" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="8" y="18">China Unicom</tspan>
+                </text>
+                <g id="Rectangle-Copy备份-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#F9FAFB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <line x1="106" y1="50.5795688" x2="170" y2="50.4204312" id="直线备份-4" stroke="#B30000" stroke-width="4" stroke-linecap="square"></line>
+                <text id="选中标签" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#B30000">
+                    <tspan x="110" y="43">选中标签</tspan>
+                </text>
+                <text id="可选标签" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.645705857">
+                    <tspan x="197" y="43">可选标签</tspan>
+                </text>
+                <text id="不可选标签" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.451103584">
+                    <tspan x="284" y="43">不可选标签</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

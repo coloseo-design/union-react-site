@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="312px" viewBox="0 0 960 312" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>10</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="931" height="40"></rect>
+        <filter x="-0.4%" y="-5.0%" width="100.9%" height="120.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.576470588   0 0 0 0 0.576470588   0 0 0 0 0.576470588  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.290196 0 0 0 0 0.368627 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-4">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.290196 0 0 0 0 0.368627 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-5">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.290196 0 0 0 0 0.368627 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件设计规范备份--数据展示备份" transform="translate(-300.000000, -4654.000000)">
+            <g id="10" transform="translate(300.000000, 4654.000000)">
+                <rect id="矩形备份-7" fill="#FFFFFF" x="0" y="0" width="960" height="312"></rect>
+                <rect id="矩形备份-7" fill="#B30000" x="74" y="167" width="78" height="4"></rect>
+                <text id="页签1" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.85">
+                    <tspan x="18" y="157">页签1</tspan>
+                </text>
+                <text id="页签2" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#B30000">
+                    <tspan x="95" y="157">页签2</tspan>
+                </text>
+                <text id="页签3" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.845470935">
+                    <tspan x="175" y="157">页签3</tspan>
+                </text>
+                <text id="页签4" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.845470935">
+                    <tspan x="255" y="157">页签4</tspan>
+                </text>
+                <text id="页签5" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.845470935">
+                    <tspan x="335" y="157">页签5</tspan>
+                </text>
+                <text id="页签6" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.448153409">
+                    <tspan x="415" y="157">页签6</tspan>
+                </text>
+                <text id="页签7" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.45274257">
+                    <tspan x="495" y="157">页签7</tspan>
+                </text>
+                <g id="编组-2" transform="translate(18.000000, 46.000000)">
+                    <g id="Rectangle-Copy备份">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F9FAFB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <rect id="矩形备份" fill="#FFF1F0" x="88" y="0" width="110" height="40"></rect>
+                    <rect id="矩形备份" fill="#D8D8D8" x="87" y="8" width="1" height="24"></rect>
+                    <rect id="矩形备份-copy" fill="#D8D8D8" x="198" y="8" width="1" height="24"></rect>
+                    <rect id="矩形备份-copy备份" fill="#D8D8D8" x="323" y="8" width="1" height="24"></rect>
+                    <g id="编组" transform="translate(16.000000, 10.000000)">
+                        <text id="首-页" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.854075612">
+                            <tspan x="0" y="15">首 页</tspan>
+                        </text>
+                        <g filter="url(#filter-3)" id="叉号，删除，关闭备份">
+                            <g transform="translate(41.000000, 3.000000)">
+                                <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                                <path d="M10.3901602,2.78523438 C10.6464395,2.52895508 11.0619551,2.52895508 11.3182344,2.78523438 C11.571957,3.03895703 11.5744863,3.44873047 11.3258496,3.70558398 L11.3182344,3.71330859 L7.92393164,7.107625 L11.326834,10.5105137 C11.5831133,10.766793 11.5831133,11.1823086 11.326834,11.4385879 C11.0705547,11.6948672 10.6550391,11.6948672 10.3987598,11.4385879 L6.99585742,8.03568555 L3.6035918,11.4279512 C3.34986914,11.6816738 2.9400957,11.6842168 2.68324219,11.4355664 L2.67550391,11.4279648 C2.42179492,11.1742422 2.41925195,10.7644688 2.66790234,10.5076152 L2.67550391,10.499877 L6.06776953,7.10761133 L2.68411719,3.72394531 C2.42783789,3.46765234 2.42783789,3.05215039 2.68411719,2.79585742 C2.94039648,2.53957813 3.35591211,2.53957813 3.61219141,2.79585742 L6.99584375,6.17952344 L10.3901602,2.78523438 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="四字页签" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.854075612">
+                        <tspan x="104" y="25">四字页签</tspan>
+                    </text>
+                    <text id="五个字页签" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.854075612">
+                        <tspan x="215" y="25">五个字页签</tspan>
+                    </text>
+                    <g filter="url(#filter-4)" id="叉号，删除，关闭">
+                        <g transform="translate(168.000000, 13.000000)">
+                            <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                            <path d="M10.3901602,2.78523438 C10.6464395,2.52895508 11.0619551,2.52895508 11.3182344,2.78523438 C11.571957,3.03895703 11.5744863,3.44873047 11.3258496,3.70558398 L11.3182344,3.71330859 L7.92393164,7.107625 L11.326834,10.5105137 C11.5831133,10.766793 11.5831133,11.1823086 11.326834,11.4385879 C11.0705547,11.6948672 10.6550391,11.6948672 10.3987598,11.4385879 L6.99585742,8.03568555 L3.6035918,11.4279512 C3.34986914,11.6816738 2.9400957,11.6842168 2.68324219,11.4355664 L2.67550391,11.4279648 C2.42179492,11.1742422 2.41925195,10.7644688 2.66790234,10.5076152 L2.67550391,10.499877 L6.06776953,7.10761133 L2.68411719,3.72394531 C2.42783789,3.46765234 2.42783789,3.05215039 2.68411719,2.79585742 C2.94039648,2.53957813 3.35591211,2.53957813 3.61219141,2.79585742 L6.99584375,6.17952344 L10.3901602,2.78523438 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                    <g filter="url(#filter-5)" id="叉号，删除，关闭备份-2">
+                        <g transform="translate(293.000000, 13.000000)">
+                            <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                            <path d="M10.3901602,2.78523438 C10.6464395,2.52895508 11.0619551,2.52895508 11.3182344,2.78523438 C11.571957,3.03895703 11.5744863,3.44873047 11.3258496,3.70558398 L11.3182344,3.71330859 L7.92393164,7.107625 L11.326834,10.5105137 C11.5831133,10.766793 11.5831133,11.1823086 11.326834,11.4385879 C11.0705547,11.6948672 10.6550391,11.6948672 10.3987598,11.4385879 L6.99585742,8.03568555 L3.6035918,11.4279512 C3.34986914,11.6816738 2.9400957,11.6842168 2.68324219,11.4355664 L2.67550391,11.4279648 C2.42179492,11.1742422 2.41925195,10.7644688 2.66790234,10.5076152 L2.67550391,10.499877 L6.06776953,7.10761133 L2.68411719,3.72394531 C2.42783789,3.46765234 2.42783789,3.05215039 2.68411719,2.79585742 C2.94039648,2.53957813 3.35591211,2.53957813 3.61219141,2.79585742 L6.99584375,6.17952344 L10.3901602,2.78523438 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+                <rect id="Rectangle-Copy备份" fill="#E9EBF0" x="18" y="229" width="930" height="36"></rect>
+                <rect id="Rectangle-Copy备份" stroke="#ACAFB9" fill="#F9FAFB" x="96.5" y="229.5" width="77" height="35"></rect>
+                <rect id="Rectangle-Copy备份" fill="#F9FAFB" x="97" y="264" width="76" height="1"></rect>
+                <rect id="矩形备份" fill="#C7CACD" x="18" y="264" width="78" height="1"></rect>
+                <rect id="矩形备份-7" fill="#C7CACD" x="174" y="264" width="774" height="1"></rect>
+                <text id="页签1" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.85">
+                    <tspan x="40" y="252">页签1</tspan>
+                </text>
+                <text id="页签2" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#B30000">
+                    <tspan x="117" y="252">页签2</tspan>
+                </text>
+                <text id="页签3" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.845470935">
+                    <tspan x="197" y="252">页签3</tspan>
+                </text>
+                <text id="页签4" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.845470935">
+                    <tspan x="277" y="252">页签4</tspan>
+                </text>
+                <text id="页签5" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.845470935">
+                    <tspan x="357" y="252">页签5</tspan>
+                </text>
+                <text id="页签6" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.845334353">
+                    <tspan x="437" y="252">页签6</tspan>
+                </text>
+                <text id="页签7" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#000000" fill-opacity="0.845334353">
+                    <tspan x="517" y="252">页签7</tspan>
+                </text>
+                <rect id="矩形备份-7" fill="#C7CACD" x="18" y="229" width="930" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

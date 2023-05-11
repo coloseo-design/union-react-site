@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="219px" viewBox="0 0 540 219" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="交互原则-即时反馈" transform="translate(-720.000000, -577.000000)">
+            <g id="编组-3" transform="translate(720.000000, 577.000000)">
+                <rect id="矩形" stroke="#B30000" fill="#FFFFFF" x="0.5" y="0.5" width="539" height="39" rx="2"></rect>
+                <path d="M444,0 L538,0 C539.104569,-2.02906125e-16 540,0.8954305 540,2 L540,38 C540,39.1045695 539.104569,40 538,40 L444,40 L444,40 L444,0 Z" id="矩形" fill="#B30000"></path>
+                <text id="搜索" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="476" y="24">搜索</tspan>
+                </text>
+                <text id="关键词" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="16.5" y="25">关键词 </tspan>
+                </text>
+                <rect id="矩形" fill-opacity="0.85" fill="#000000" x="70" y="8" width="1" height="24"></rect>
+                <rect id="矩形" stroke="#E8E7E7" fill="#FFFFFF" x="0.5" y="42.5" width="539" height="176" rx="2"></rect>
+                <path d="M3.9493753,43 L537,43 C538.104569,43 539,43.8954305 539,45 L539,82 L539,82 L1,82 L1.95003244,44.9487348 C1.97783355,43.8644914 2.86477556,43 3.9493753,43 Z" id="矩形" fill="#FDF0F0"></path>
+                <text id="用户输入时，下拉列表会随着输入的关键词显" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal">
+                    <tspan x="14" y="69" fill="#000000" fill-opacity="0.85">用户输入时，下拉列表会随着输入的</tspan>
+                    <tspan x="238" y="69" fill="#B30000">关键词</tspan>
+                    <tspan x="280" y="69" fill="#000000" fill-opacity="0.85">显示匹配项</tspan>
+                </text>
+                <text id="下拉列表会随着输入的关键词显示匹配项" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal">
+                    <tspan x="14" y="105" fill="#000000" fill-opacity="0.85">下拉列表会随着输入的</tspan>
+                    <tspan x="154" y="105" fill="#D47878">关键词</tspan>
+                    <tspan x="196" y="105" fill="#000000" fill-opacity="0.85">显示匹配项</tspan>
+                </text>
+                <text id="输入的关键词显示匹配项" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal">
+                    <tspan x="14" y="141" fill="#000000" fill-opacity="0.85">输入的</tspan>
+                    <tspan x="56" y="141" fill="#D47878">关键词</tspan>
+                    <tspan x="98" y="141" fill="#000000" fill-opacity="0.85">显示匹配项</tspan>
+                </text>
+                <text id="随着输入的关键词显示匹配项" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal">
+                    <tspan x="14" y="177" fill="#000000" fill-opacity="0.85">随着输入的</tspan>
+                    <tspan x="84" y="177" fill="#D47878">关键词</tspan>
+                    <tspan x="126" y="177" fill="#000000" fill-opacity="0.85">显示匹配项</tspan>
+                </text>
+                <text id="104个结果" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="452.586" y="69">104个结果</tspan>
+                </text>
+                <text id="50个结果" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="458.2" y="105">50个结果</tspan>
+                </text>
+                <text id="3个结果" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="466.6" y="141">3个结果</tspan>
+                </text>
+                <text id="1002个结果" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="444.186" y="177">1002个结果</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,45 @@
+@import "../styles/global.less";
+.workspace {
+  &-list {
+    & > .item {
+      margin-top: 40px;
+      border-bottom: 1px solid #d8d8d8;
+      &:last-child {
+        border-bottom: none;
+        padding-bottom: 40px;
+      }
+      &::after {
+        content: "";
+        display: block;
+        clear: both;
+      }
+      & > .item-left {
+        float: left;
+        width: 35%;
+      }
+      & > .item-img {
+        float: right;
+        width: 50%;
+        margin-bottom: 40px;
+      }
+      & > .item-imgs {
+        width: 100%;
+        margin-top: 16px;
+      }
+      & > div {
+        & .item-title {
+          font-size: 24px;
+          color: #e98a00;
+        }
+        // & > .item-title-img {
+        //   margin-bottom: 8px;
+        // }
+        & > .item-description {
+          font-size: 14px;
+          padding: 8px 0 40px 0;
+          color: rgba(0, 0, 0, 0.85);
+        }
+      }
+    }
+  }
+}

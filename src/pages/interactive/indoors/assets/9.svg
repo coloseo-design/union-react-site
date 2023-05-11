@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="572px" height="426px" viewBox="0 0 572 426" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>9</title>
+    <defs>
+        <rect id="path-1" x="20" y="103" width="500" height="277" rx="2"></rect>
+        <filter x="-11.7%" y="-17.9%" width="123.4%" height="142.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="4" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="9" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="14" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0.250000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="交互原则-足不出户" transform="translate(-704.000000, -3394.000000)">
+            <g id="9" transform="translate(720.000000, 3394.000000)">
+                <g id="编组-4">
+                    <rect id="矩形备份-40" fill-opacity="0.0468203671" fill="#000000" x="20" y="61" width="486" height="40"></rect>
+                    <rect id="矩形备份-85" fill="#BEBEBE" x="38" y="75" width="60" height="12"></rect>
+                    <rect id="矩形备份-86" fill="#BEBEBE" x="178" y="75" width="60" height="12"></rect>
+                    <rect id="矩形备份-87" fill="#BEBEBE" x="363" y="75" width="60" height="12"></rect>
+                    <rect id="矩形备份-88" fill="#F1F1F1" x="38" y="119" width="67" height="12"></rect>
+                    <rect id="矩形备份-89" fill="#F1F1F1" x="178" y="119" width="40" height="12"></rect>
+                    <rect id="矩形备份-90" fill="#F1F1F1" x="363" y="119" width="102" height="12"></rect>
+                    <rect id="矩形备份-91" fill-opacity="0.154938811" fill="#000000" x="0" y="0" width="540" height="426"></rect>
+                    <g id="形状结合备份-4">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <rect id="矩形备份-93" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="363.5" y="341.5" width="59" height="23" rx="2"></rect>
+                    <text id="取消备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.649885271">
+                        <tspan x="379" y="358">取消</tspan>
+                    </text>
+                    <rect id="矩形备份-94" fill="#BEBEBE" x="67" y="203" width="61" height="16"></rect>
+                    <rect id="矩形备份-95" fill="#BEBEBE" x="67" y="251" width="61" height="16"></rect>
+                    <rect id="矩形备份-39" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="155.5" y="201.5" width="68" height="23" rx="2"></rect>
+                    <g filter="url(#filter-3)" id="下拉备份">
+                        <g transform="translate(205.000000, 205.000000)">
+                            <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                            <path d="M8.2015,11.921 C7.9285,11.921 7.667,11.811 7.4765,11.616 L1.767,5.7975 C1.37805526,5.39631451 1.38607473,4.75634477 1.7849503,4.36503147 C2.18382587,3.97371818 2.82383187,3.97794834 3.2175,4.3745 L8.201,9.4545 L13.1845,4.3745 C13.5781681,3.97794834 14.2181741,3.97371818 14.6170497,4.36503147 C15.0159253,4.75634477 15.0239447,5.39631451 14.635,5.7975 L8.927,11.6165 C8.7355,11.8115 8.4745,11.921 8.2015,11.921 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                    <text id="选择备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.649885271">
+                        <tspan x="168" y="218">选择</tspan>
+                    </text>
+                    <rect id="矩形备份-96" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="155.5" y="249.5" width="158" height="43" rx="2"></rect>
+                    <rect id="矩形备份-97" fill="#F1F1F1" x="163" y="255" width="142" height="12"></rect>
+                    <rect id="矩形备份-98" fill="#F1F1F1" x="163" y="275" width="83" height="12"></rect>
+                    <rect id="矩形备份-99" fill-opacity="0.85" fill="#000000" x="249" y="274" width="1" height="14"></rect>
+                    <text id="Finished" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="24" fill="#000000" fill-opacity="0.65">
+                        <tspan x="79" y="145">处理完成</tspan>
+                    </text>
+                    <text id="这里是描述文案" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.45">
+                        <tspan x="79" y="171">这里是描述文案</tspan>
+                    </text>
+                    <g id="Icon/Steps-Finished" transform="translate(47.000000, 130.000000)" fill="#B30000">
+                        <path d="M12,0 C18.627417,0 24,5.37254677 24,11.9999191 C24,18.6272914 18.627417,23.9998382 12,23.9998382 C5.372583,23.9998382 0,18.6272914 0,11.9999191 C0,5.37254677 5.372583,0 12,0 Z M12,0.999993257 C5.92486775,0.999993257 1,5.9248278 1,11.9999191 C1,18.0750104 5.92486775,22.9998449 12,22.9998449 C18.0751322,22.9998449 23,18.0750104 23,11.9999191 C23,5.9248278 18.0751322,0.999993257 12,0.999993257 Z M17.0699009,8.00529222 C17.3007664,8.21316445 17.3194062,8.56883165 17.1115339,8.79969715 L10.403025,16.2502512 C10.32366,16.3383948 10.2227512,16.3956026 10.1154696,16.4210795 C9.94461167,16.4685804 9.75713221,16.4335224 9.61415325,16.3193602 L9.54665512,16.255703 L6.89679894,13.3127396 C6.68892671,13.0818741 6.70756644,12.7262069 6.93843193,12.5183347 C7.14364571,12.3335593 7.44746824,12.3277564 7.65844617,12.4908923 L7.73283686,12.5599676 L9.9713131,15.0468064 L16.275496,8.04692521 C16.4833682,7.81605972 16.8390354,7.79741999 17.0699009,8.00529222 Z"></path>
+                    </g>
+                    <text id="Finished" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" line-spacing="22" fill="#000000" fill-opacity="0.85">
+                        <tspan x="243" y="145">正在处理</tspan>
+                    </text>
+                    <text id="这里是描述文案" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.45">
+                        <tspan x="243" y="171">这里是描述文案</tspan>
+                    </text>
+                    <g id="Icon/Steps-Active" transform="translate(211.000000, 130.000000)">
+                        <circle id="Active" fill="#B30000" cx="12" cy="12" r="12"></circle>
+                        <text id="Number" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                            <tspan x="7.8" y="16">2</tspan>
+                        </text>
+                    </g>
+                    <text id="Finished" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.45">
+                        <tspan x="395" y="145">正在处理</tspan>
+                    </text>
+                    <text id="这里是描述文案" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.45">
+                        <tspan x="395" y="171">这里是描述文案</tspan>
+                    </text>
+                    <g id="导航/Steps步骤条/Light/垂直分割线" transform="translate(375.000000, 162.000000)" fill="#000000" fill-opacity="0.15">
+                        <rect id="Divider" x="0" y="0" width="1" height="1"></rect>
+                    </g>
+                    <g id="Icon/Steps-Normal" transform="translate(363.000000, 130.000000)" fill="#000000" fill-opacity="0.25">
+                        <path d="M12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 Z M12,1 C5.92486775,1 1,5.92486775 1,12 C1,18.0751322 5.92486775,23 12,23 C18.0751322,23 23,18.0751322 23,12 C23,5.92486775 18.0751322,1 12,1 Z" id="Oval-1-Copy-23" fill-rule="nonzero"></path>
+                        <text id="↳-Number" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22">
+                            <tspan x="7" y="16">3</tspan>
+                        </text>
+                    </g>
+                    <g id="导航/Steps步骤条/Light/垂直分割线" transform="translate(177.500000, 142.000000) rotate(-270.000000) translate(-177.500000, -142.000000) translate(177.000000, 117.000000)" fill="#000000" fill-opacity="0.15">
+                        <rect id="Divider" x="0" y="0" width="1" height="50"></rect>
+                    </g>
+                    <g id="导航/Steps步骤条/Light/垂直分割线备份" transform="translate(331.500000, 142.000000) rotate(-270.000000) translate(-331.500000, -142.000000) translate(331.000000, 117.000000)" fill="#000000" fill-opacity="0.15">
+                        <rect id="Divider" x="0" y="0" width="1" height="50"></rect>
+                    </g>
+                </g>
+                <rect id="矩形备份-92" fill="#B30000" x="440" y="341" width="60" height="24" rx="2"></rect>
+                <text id="确定备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="456" y="358">确定</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

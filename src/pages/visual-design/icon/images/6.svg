@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="479px" viewBox="0 0 540 479" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>6</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.802055 0 0 0 0 0.802055 0 0 0 0 0.802055 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="视觉设计规范-图标" transform="translate(-720.000000, -3381.000000)">
+            <g id="编组-16" transform="translate(720.000000, 3381.000000)">
+                <rect id="矩形备份" fill="#FFFFFF" x="0" y="0" width="540" height="479"></rect>
+                <rect id="矩形" fill="#B30000" x="143" y="387" width="255" height="1"></rect>
+                <g id="编组-3" transform="translate(438.000000, 226.500000) rotate(-270.000000) translate(-438.000000, -226.500000) translate(310.000000, 217.000000)" fill="#B30000">
+                    <rect id="矩形备份-3" x="1" y="9" width="255" height="1"></rect>
+                    <rect id="矩形备份-7" x="0" y="0" width="1" height="19"></rect>
+                    <rect id="矩形备份-8" x="255" y="0" width="1" height="19"></rect>
+                </g>
+                <rect id="矩形" fill="#B30000" x="157" y="85" width="1" height="10"></rect>
+                <rect id="矩形备份-48" fill="#B30000" x="397" y="85" width="1" height="10"></rect>
+                <rect id="矩形备份-47" fill="#B30000" transform="translate(149.500000, 90.500000) rotate(-270.000000) translate(-149.500000, -90.500000) " x="149" y="83" width="1" height="15"></rect>
+                <rect id="矩形备份-50" fill="#B30000" transform="translate(390.500000, 90.500000) rotate(-270.000000) translate(-390.500000, -90.500000) " x="390" y="83" width="1" height="15"></rect>
+                <rect id="矩形备份-46" fill="#B30000" x="142" y="85" width="1" height="10"></rect>
+                <rect id="矩形备份-49" fill="#B30000" x="382" y="85" width="1" height="10"></rect>
+                <text id="64px" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="133" y="76">64px</tspan>
+                </text>
+                <text id="64px备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="373" y="76">64px</tspan>
+                </text>
+                <rect id="矩形" stroke="#979797" fill="#EFEFEF" x="142.5" y="99.5" width="255" height="255"></rect>
+                <rect id="矩形" fill="#B30000" x="142" y="378" width="1" height="19"></rect>
+                <rect id="矩形备份-2" fill="#B30000" x="397" y="378" width="1" height="19"></rect>
+                <text id="1024px" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="244" y="415">1024px</tspan>
+                </text>
+                <text id="1024px备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="452" y="233">1024px</tspan>
+                </text>
+                <g filter="url(#filter-1)" id="编组-5">
+                    <g transform="translate(142.000000, 99.000000)">
+                        <rect id="矩形" stroke="#979797" x="0.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-10" stroke="#979797" x="15.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-12" stroke="#979797" x="45.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-14" stroke="#979797" x="75.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-20" stroke="#979797" x="105.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-22" stroke="#979797" x="135.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-24" stroke="#979797" x="165.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-26" stroke="#979797" x="195.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-28" stroke="#979797" x="225.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-45" stroke="#979797" x="240.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-11" stroke="#979797" x="30.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-13" stroke="#979797" x="60.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-15" stroke="#979797" x="90.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-21" stroke="#979797" x="120.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-23" stroke="#979797" x="150.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-25" stroke="#979797" x="180.5" y="0.5" width="15" height="255"></rect>
+                        <rect id="矩形备份-27" stroke="#979797" x="210.5" y="0.5" width="15" height="255"></rect>
+                        <g id="编组-4" transform="translate(0.000000, 15.000000)" stroke="#979797">
+                            <rect id="矩形备份-29" transform="translate(128.000000, 8.000000) rotate(-270.000000) translate(-128.000000, -8.000000) " x="120.5" y="-119.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-37" transform="translate(128.000000, 128.000000) rotate(-270.000000) translate(-128.000000, -128.000000) " x="120.5" y="0.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-33" transform="translate(128.000000, 68.000000) rotate(-270.000000) translate(-128.000000, -68.000000) " x="120.5" y="-59.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-38" transform="translate(128.000000, 188.000000) rotate(-270.000000) translate(-128.000000, -188.000000) " x="120.5" y="60.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-31" transform="translate(128.000000, 38.000000) rotate(-270.000000) translate(-128.000000, -38.000000) " x="120.5" y="-89.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-39" transform="translate(128.000000, 158.000000) rotate(-270.000000) translate(-128.000000, -158.000000) " x="120.5" y="30.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-34" transform="translate(128.000000, 98.000000) rotate(-270.000000) translate(-128.000000, -98.000000) " x="120.5" y="-29.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-40" transform="translate(128.000000, 218.000000) rotate(-270.000000) translate(-128.000000, -218.000000) " x="120.5" y="90.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-30" transform="translate(128.000000, 23.000000) rotate(-270.000000) translate(-128.000000, -23.000000) " x="120.5" y="-104.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-41" transform="translate(128.000000, 143.000000) rotate(-270.000000) translate(-128.000000, -143.000000) " x="120.5" y="15.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-35" transform="translate(128.000000, 83.000000) rotate(-270.000000) translate(-128.000000, -83.000000) " x="120.5" y="-44.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-42" transform="translate(128.000000, 203.000000) rotate(-270.000000) translate(-128.000000, -203.000000) " x="120.5" y="75.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-32" transform="translate(128.000000, 53.000000) rotate(-270.000000) translate(-128.000000, -53.000000) " x="120.5" y="-74.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-43" transform="translate(128.000000, 173.000000) rotate(-270.000000) translate(-128.000000, -173.000000) " x="120.5" y="45.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-36" transform="translate(128.000000, 113.000000) rotate(-270.000000) translate(-128.000000, -113.000000) " x="120.5" y="-14.5" width="15" height="255"></rect>
+                            <rect id="矩形备份-44" transform="translate(128.000000, 233.000000) rotate(-270.000000) translate(-128.000000, -233.000000) " x="120.5" y="105.5" width="15" height="255"></rect>
+                        </g>
+                    </g>
+                </g>
+                <rect id="矩形" stroke="#B30000" fill-opacity="0.54" fill="#FCF5F5" x="157.5" y="114.5" width="225" height="225"></rect>
+                <text id="896px*896px" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="226" y="233">896px*896px</tspan>
+                </text>
+                <text id="有效作图区域" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="228" y="209">有效作图区域</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

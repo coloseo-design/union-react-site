@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="270px" viewBox="0 0 960 270" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2</title>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件设计规范备份-数据录入备份" transform="translate(-299.000000, -2930.000000)">
+            <g id="2" transform="translate(299.000000, 2930.000000)">
+                <rect id="矩形备份-105" stroke="#E8E7E7" x="0.5" y="0.5" width="959" height="269"></rect>
+                <text id="横向" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="338" y="41">横向</tspan>
+                </text>
+                <text id="纵向" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="131" y="41">纵向</tspan>
+                </text>
+                <g id="单选框-选中失效项" transform="translate(131.000000, 215.000000)">
+                    <g id="Icon/Radio-Selected-Disabled" transform="translate(0.000000, 3.000000)">
+                        <rect id="Rectangle-271" stroke="#C8CAD1" fill="#E9EBF0" x="0" y="0" width="16" height="16" rx="8"></rect>
+                        <circle id="Oval-1-Copy-5" fill="#C8CAD1" cx="8" cy="8" r="4"></circle>
+                    </g>
+                    <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.35">
+                        <tspan x="24" y="15">选中失效项</tspan>
+                    </text>
+                </g>
+                <g id="单选框-选中失效项" transform="translate(736.000000, 63.000000)">
+                    <g id="Icon/Radio-Selected-Disabled" transform="translate(0.000000, 3.000000)">
+                        <rect id="Rectangle-271" stroke="#C8CAD1" fill="#E9EBF0" x="0" y="0" width="16" height="16" rx="8"></rect>
+                        <circle id="Oval-1-Copy-5" fill="#C8CAD1" cx="8" cy="8" r="4"></circle>
+                    </g>
+                    <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.35">
+                        <tspan x="24" y="15">选中失效项</tspan>
+                    </text>
+                </g>
+                <g id="单选框-未选失效项" transform="translate(131.000000, 177.000000)">
+                    <g id="Icon/Radio-Normal-Disabled" transform="translate(0.000000, 3.000000)" fill="#E9EBF0" stroke="#C8CAD1">
+                        <rect id="Rectangle-271" x="0" y="0" width="16" height="16" rx="8"></rect>
+                    </g>
+                    <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.35">
+                        <tspan x="24" y="15">未选失效项</tspan>
+                    </text>
+                </g>
+                <g id="单选框-未选失效项" transform="translate(626.000000, 63.000000)">
+                    <g id="Icon/Radio-Normal-Disabled" transform="translate(0.000000, 3.000000)" fill="#E9EBF0" stroke="#C8CAD1">
+                        <rect id="Rectangle-271" x="0" y="0" width="16" height="16" rx="8"></rect>
+                    </g>
+                    <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.35">
+                        <tspan x="24" y="15">未选失效项</tspan>
+                    </text>
+                </g>
+                <g id="单选框-选中项" transform="translate(131.000000, 139.000000)">
+                    <g id="Icon/Radio-Selected" transform="translate(0.000000, 3.000000)">
+                        <g id="save"></g>
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        <rect id="Rectangle-271" stroke="#B30000" fill="#FFFFFF" x="0.5" y="0.5" width="15" height="15" rx="7.5"></rect>
+                        <circle id="Oval-1-Copy-5" fill="#B30000" cx="8" cy="8" r="4"></circle>
+                    </g>
+                    <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.65">
+                        <tspan x="24" y="15">选中项</tspan>
+                    </text>
+                </g>
+                <g id="单选框-选中项" transform="translate(544.000000, 63.000000)">
+                    <g id="Icon/Radio-Selected" transform="translate(0.000000, 3.000000)">
+                        <g id="save"></g>
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        <rect id="Rectangle-271" stroke="#B30000" fill="#FFFFFF" x="0.5" y="0.5" width="15" height="15" rx="7.5"></rect>
+                        <circle id="Oval-1-Copy-5" fill="#B30000" cx="8" cy="8" r="4"></circle>
+                    </g>
+                    <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.65">
+                        <tspan x="24" y="15">选中项</tspan>
+                    </text>
+                </g>
+                <g id="单选框-未选悬停项" transform="translate(131.000000, 101.000000)">
+                    <g id="Icon/Radio-Hover" transform="translate(0.000000, 3.000000)">
+                        <g id="save"></g>
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        <rect id="Rectangle-271" stroke="#B30000" fill="#FFFFFF" x="0.5" y="0.5" width="15" height="15" rx="7.5"></rect>
+                    </g>
+                    <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.65">
+                        <tspan x="24" y="15">未选悬停项</tspan>
+                    </text>
+                </g>
+                <g id="单选框-未选悬停项" transform="translate(434.000000, 63.000000)">
+                    <g id="Icon/Radio-Hover" transform="translate(0.000000, 3.000000)">
+                        <g id="save"></g>
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        <rect id="Rectangle-271" stroke="#B30000" fill="#FFFFFF" x="0.5" y="0.5" width="15" height="15" rx="7.5"></rect>
+                    </g>
+                    <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.65">
+                        <tspan x="24" y="15">未选悬停项</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(131.000000, 63.000000)">
+                    <g id="Icon/Radio-Normal" transform="translate(0.000000, 3.000000)">
+                        <g id="save"></g>
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        <rect id="Rectangle-271" stroke="#ACAFB9" fill="#FFFFFF" x="0.5" y="0.5" width="15" height="15" rx="7.5"></rect>
+                    </g>
+                    <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.65">
+                        <tspan x="24" y="15">未选中项</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(338.000000, 63.000000)">
+                    <g id="Icon/Radio-Normal" transform="translate(0.000000, 3.000000)">
+                        <g id="save"></g>
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        <rect id="Rectangle-271" stroke="#ACAFB9" fill="#FFFFFF" x="0.5" y="0.5" width="15" height="15" rx="7.5"></rect>
+                    </g>
+                    <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.65">
+                        <tspan x="24" y="15">未选中项</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="320px" viewBox="0 0 540 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2</title>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设计原则-对齐" transform="translate(-720.000000, -1113.000000)">
+            <g id="2" transform="translate(720.000000, 1113.000000)">
+                <rect id="矩形备份-77" fill="#FFFFFF" x="0" y="0" width="540" height="320"></rect>
+                <text id="：" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="176" y="76">：</tspan>
+                </text>
+                <text id="：备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="176" y="131">：</tspan>
+                </text>
+                <text id="：备份-2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="176" y="182">：</tspan>
+                </text>
+                <rect id="矩形" stroke="#979797" fill="#FFFFFF" x="214.5" y="54.5" width="203" height="31" rx="2"></rect>
+                <rect id="矩形备份-23" stroke="#979797" fill="#FFFFFF" x="214.5" y="110.5" width="203" height="31" rx="2"></rect>
+                <rect id="矩形备份-24" stroke="#979797" fill="#FFFFFF" x="214.5" y="166.5" width="203" height="71" rx="2"></rect>
+                <rect id="矩形备份-25" fill="#B30000" x="214" y="243" width="72" height="32" rx="2"></rect>
+                <rect id="矩形备份-26" stroke="#979797" fill="#FFFFFF" x="294.5" y="243.5" width="71" height="31" rx="2"></rect>
+                <rect id="矩形备份-27" fill="#BEBEBE" x="233" y="63" width="83" height="15"></rect>
+                <rect id="矩形备份-31" fill="#BEBEBE" x="116" y="63" width="60" height="15"></rect>
+                <rect id="矩形备份-33" fill="#BEBEBE" x="116" y="169" width="60" height="15"></rect>
+                <rect id="矩形备份-28" fill="#BEBEBE" x="233" y="119" width="83" height="15"></rect>
+                <rect id="矩形备份-32" fill="#BEBEBE" x="93" y="119" width="83" height="15"></rect>
+                <rect id="矩形备份-29" fill="#BEBEBE" x="233" y="174" width="166" height="15"></rect>
+                <rect id="矩形备份-30" fill="#BEBEBE" x="233" y="196" width="113" height="15"></rect>
+                <line x1="188" y1="40" x2="188" y2="280" id="直线-3备份-2" stroke="#B30000" stroke-width="3" stroke-linecap="square" stroke-dasharray="7"></line>
+                <text id="Do（右对齐）" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="188" y="306">Do（右对齐）</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

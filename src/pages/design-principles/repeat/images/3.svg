@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="229px" viewBox="0 0 540 229" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3</title>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设计原则-重复" transform="translate(-720.000000, -1355.000000)">
+            <g id="3" transform="translate(720.000000, 1355.000000)">
+                <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="540" height="229"></rect>
+                <rect id="矩形" fill="#BEBEBE" x="168" y="48" width="192" height="19"></rect>
+                <g id="编组-2" transform="translate(14.000000, 115.000000)" fill="#BEBEBE">
+                    <rect id="矩形备份-17" x="27" y="0" width="77" height="11"></rect>
+                    <rect id="矩形备份-68" fill-opacity="0.4" x="0" y="27" width="131" height="10"></rect>
+                    <rect id="矩形备份-69" fill-opacity="0.4" x="26" y="45" width="80" height="10"></rect>
+                </g>
+                <g id="编组-2备份" transform="translate(203.000000, 115.000000)" fill="#BEBEBE">
+                    <rect id="矩形备份-17" x="27" y="0" width="77" height="11"></rect>
+                    <rect id="矩形备份-68" fill-opacity="0.4" x="0" y="27" width="131" height="10"></rect>
+                    <rect id="矩形备份-69" fill-opacity="0.4" x="26" y="45" width="80" height="10"></rect>
+                </g>
+                <g id="编组-2备份-2" transform="translate(392.000000, 115.000000)" fill="#BEBEBE">
+                    <rect id="矩形备份-17" x="27" y="0" width="77" height="11"></rect>
+                    <rect id="矩形备份-68" fill-opacity="0.4" x="0" y="27" width="131" height="10"></rect>
+                    <rect id="矩形备份-69" fill-opacity="0.4" x="26" y="45" width="80" height="10"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+@import "../styles/global.less";
+.feedback {
+  &-list {
+    padding-bottom: 40px;
+    & > .item {
+      padding: 40px 0;
+      &:last-child {
+        padding-bottom: 0px;
+      }
+      &:not(:last-child) {
+        border-bottom: 1px solid #d8d8d8;
+      }
+      & > .children {
+        & > .children-title {
+          font-size: 20px;
+          padding: 40px 0 8px 0px;
+          color: rgba(0, 0, 0, 0.85);
+        }
+      }
+      & > .item-title {
+        color: #5c57f2;
+        font-size: 24px;
+      }
+      & > .item-description {
+        padding: 16px 0px 0px 0px;
+        color: rgba(0, 0, 0, 0.85);
+        font-size: 20px;
+      }
+    }
+  }
+}

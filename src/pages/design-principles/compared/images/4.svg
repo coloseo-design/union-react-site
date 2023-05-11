@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="305px" viewBox="0 0 540 305" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>4</title>
+    <g id="📁设计师模式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设计原则-对比" transform="translate(-721.000000, -1771.000000)">
+            <g id="4" transform="translate(721.000000, 1771.000000)">
+                <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="540" height="305"></rect>
+                <text id="动态（鼠标悬停时，该项和其他项呈现出明显" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+                    <tspan x="20" y="32">动态（鼠标悬停时，该项和其他项呈现出明显不同的视觉效果，响应用户操作）</tspan>
+                </text>
+                <rect id="矩形" fill="#D8D8D8" x="63" y="54" width="178" height="213" rx="2"></rect>
+                <rect id="矩形" stroke="#E8E7E7" fill="#FFFFFF" x="71.5" y="71.5" width="158" height="138"></rect>
+                <rect id="矩形备份-38" stroke="#E8E7E7" fill="#FFFFFF" x="321.5" y="71.5" width="158" height="138"></rect>
+                <rect id="矩形" fill="#B30000" x="71" y="226" width="60" height="24" rx="2"></rect>
+                <rect id="矩形备份-74" fill="#B30000" x="321" y="226" width="60" height="24" rx="2"></rect>
+                <text id="标题" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="85" y="243">标题</tspan>
+                </text>
+                <text id="标题备份-6" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="335" y="243">标题</tspan>
+                </text>
+                <rect id="矩形备份" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="139.5" y="226.5" width="59" height="23" rx="2"></rect>
+                <rect id="矩形备份-75" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="389.5" y="226.5" width="59" height="23" rx="2"></rect>
+                <text id="标题备份" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.35">
+                    <tspan x="155" y="243">标题</tspan>
+                </text>
+                <text id="标题备份-7" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.35">
+                    <tspan x="405" y="243">标题</tspan>
+                </text>
+                <rect id="矩形备份-65" fill="#BEBEBE" x="84" y="93" width="93" height="16"></rect>
+                <rect id="矩形备份-68" fill="#BEBEBE" x="334" y="93" width="93" height="16"></rect>
+                <rect id="矩形备份-66" fill="#BEBEBE" x="84" y="133" width="93" height="16"></rect>
+                <rect id="矩形备份-69" fill="#BEBEBE" x="334" y="133" width="93" height="16"></rect>
+                <rect id="矩形备份-67" fill="#BEBEBE" x="84" y="173" width="93" height="16"></rect>
+                <rect id="矩形备份-70" fill="#BEBEBE" x="334" y="173" width="93" height="16"></rect>
+                <rect id="矩形备份-35" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="201.5" y="93.5" width="15" height="15" rx="2"></rect>
+                <rect id="矩形备份-71" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="451.5" y="93.5" width="15" height="15" rx="2"></rect>
+                <rect id="矩形备份-36" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="201.5" y="133.5" width="15" height="15" rx="2"></rect>
+                <rect id="矩形备份-72" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="451.5" y="133.5" width="15" height="15" rx="2"></rect>
+                <rect id="矩形备份-37" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="201.5" y="173.5" width="15" height="15" rx="2"></rect>
+                <rect id="矩形备份-73" stroke-opacity="0.35" stroke="#000000" fill="#FFFFFF" x="451.5" y="173.5" width="15" height="15" rx="2"></rect>
+                <g id="鼠标指针" transform="translate(214.000000, 230.000000)" fill="#000000" fill-rule="nonzero">
+                    <rect id="矩形" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M11.8828125,9.1765625 C12.0265625,9.315625 12.059375,9.4765625 11.98125,9.6578125 C11.9015625,9.84375 11.765625,9.9359375 11.56875,9.9359375 L8.903125,9.9359375 L10.30625,13.25625 C10.353125,13.371875 10.353125,13.4859375 10.30625,13.5984375 C10.259375,13.709375 10.1796875,13.7921875 10.06875,13.8421875 L8.8328125,14.365625 C8.7171875,14.4125 8.603125,14.4125 8.490625,14.365625 C8.3796875,14.31875 8.296875,14.2390625 8.246875,14.128125 L6.9140625,10.975 L4.7390625,13.1546875 C4.6515625,13.2421875 4.5453125,13.2875 4.425,13.2875 C4.36875,13.2875 4.3140625,13.275 4.2578125,13.2515625 C4.071875,13.171875 3.9796875,13.0359375 3.9796875,12.8390625 L3.9796875,2.3484375 C3.9796875,2.153125 4.071875,2.015625 4.2578125,1.9359375 C4.3140625,1.9125 4.36875,1.9 4.425,1.9 C4.5515625,1.9 4.6546875,1.94375 4.7390625,2.0328125 L11.8828125,9.1765625 L11.8828125,9.1765625 Z" id="路径" stroke="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+node_modules
+lib/
+es/
+dist/
+.idea/
+.DS_Store
+src/utils/config.ts
+yarn-error.log
+
