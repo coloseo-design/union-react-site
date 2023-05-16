@@ -11,26 +11,22 @@ const DividerDemo = () => (
 
       const Demo = () => (
         <div>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.
-      </div>
-      <Divider dashed />
-      <div>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.
-      </div>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </div>
+        <Divider />
+        <div>
+          Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.
+        </div>
       )
       `}
       rightDemo={(
         <>
           <div>
-            {`Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.`}
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </div>
           <Divider />
           <div>
-            {`Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.`}
+            Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.
           </div>
         </>
       )}
@@ -46,16 +42,14 @@ const DividerDemo = () => (
       const Demo = () => (
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.
         </p>
-        <Divider />
+        <Divider>标题</Divider>
       )
       `}
       rightDemo={(
         <>
           <p>
-            {`Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.`}
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </p>
           <Divider>标题</Divider>
         </>
@@ -72,18 +66,24 @@ const DividerDemo = () => (
         const Demo = () => (
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+          <Divider dashed />
+          <p>
             Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.
           </p>
-          <Divider dashed>center</Divider>
+          <Divider dashed orientation="left">左侧虚线标题</Divider>
+          <Divider dashed orientation="right">左侧虚线标题</Divider>
+          <Divider dashed>居中虚线标题</Divider>
         )
       `}
       rightDemo={(
         <>
-          <p>
-            {`Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.`}
-          </p>
-          <Divider dashed>center</Divider>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <Divider dashed />
+          <p>Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.</p>
+          <Divider dashed orientation="left">左侧虚线标题</Divider>
+          <Divider dashed orientation="right">左侧虚线标题</Divider>
+          <Divider dashed>居中虚线标题</Divider>
         </>
       )}
       description={(
@@ -109,11 +109,13 @@ const DividerDemo = () => (
             {`Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.`}
           </p>
-          <Divider orientation="left">left</Divider>
+          <Divider orientation="left">左侧标题</Divider>
+          <Divider>居中标题</Divider>
+          <Divider orientation="right">左侧标题</Divider>
         </>
       )}
       description={(
-        <h3>分割线标题在左边</h3>
+        <h3>标题在分割线不同位置</h3>
       )}
     />
   </div>
