@@ -164,10 +164,51 @@ function codeDemoEntry() {
     .pipe(dest(path.resolve('src', 'code-demos')));
 }
 
+function testDemoEntry() {
+  return src('src/demos/**/*.tsx')
+    .pipe(through2.obj((file, encoding, callback) => {
+      const splited = file.path.split(path.sep);
+      const current = splited[splited.length - 2];
+      const temp = splited[splited.length - 1] || 'demo.tsx';
+      const demo = temp.slice(0, temp.indexOf('.tsx'));
+      const ComponentName = rename(current);
+      const DemoName = rename(demo);
+      const content = `/* eslint-disable */export { default as ${ComponentName}${DemoName} } from '../demos/${current}/${demo}';`;
+      file.contents = Buffer.from(content);
+      callback(null, file);
+    }))
+    .pipe(concat('index.ts'))
+    .pipe(dest(path.resolve('src', 'allDemos')));
+}
+
+function testCodeEntry() {
+  return src('src/demos/**/*.tsx')
+    .pipe(through2.obj((file, encoding, callback) => {
+      const splited = file.path.split(path.sep);
+      const current = splited[splited.length - 2];
+      const temp = splited[splited.length - 1] || 'demo.tsx';
+      const demo = temp.slice(0, temp.indexOf('.tsx'));
+      const ComponentName = rename(current);
+      const DemoName = rename(demo);
+      const content = file.contents.toString(encoding);
+      const res = `/* eslint-disable no-template-curly-in-string */const ${ComponentName}${DemoName} = ${JSON.stringify(content, null, '\t')};
+export { ${ComponentName}${DemoName} };
+`;
+      file.contents = Buffer.from(res);
+      callback(null, file);
+    }))
+    .pipe(concat('index.ts'))
+    .pipe(dest(path.resolve('src', 'codes')));
+}
 exports.md = series([
   // clean('src/docs'),
   // markdown,
   // entry,
+
+  clean('src/codes'),
+  clean('src/allDemos'),
+  testDemoEntry,
+  testCodeEntry,
   apidoc,
   codeDemoEntry,
 ]);

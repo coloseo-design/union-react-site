@@ -32,7 +32,7 @@
 /* eslint-disable */export { default as Notification } from './notification/demo';
 /* eslint-disable */export { default as PageHeader } from './page-header/demo';
 /* eslint-disable */export { default as Pagination } from './pagination/demo';
-/* eslint-disable */export { default as Popconfirm } from './pop-confirm/demo';
+/* eslint-disable */export { default as Popconfirm } from './popconfirm/demo';
 /* eslint-disable */export { default as Popover } from './pop-over/demo';
 /* eslint-disable */export { default as Progress } from './progress/demo';
 /* eslint-disable */export { default as Radio } from './radio/demo';

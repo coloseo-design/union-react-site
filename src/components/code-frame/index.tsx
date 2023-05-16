@@ -1,3 +1,4 @@
+/* eslint-disable react/no-danger */
 import React from 'react';
 import { Tooltip, Icon } from 'union-design';
 import Highlight from 'highlight-for-react';
@@ -25,10 +26,12 @@ const CodeFrame = (props: any) => {
 
   return (
     <div className="codeFrame">
-      <div className="code-left">{description}</div>
+      <div className="code-left">
+        {typeof description === 'string' ? <div dangerouslySetInnerHTML={{ __html: description }} /> : <div>{description}</div>}
+      </div>
       <div className="code-right">
         <div style={{ padding: 24 }}>
-          {rightDemo}
+          {rightDemo && rightDemo()}
         </div>
         <div className="code-border">
           <Tooltip message={copySuccess ? '复制成功' : '复制代码'} trigger="hover">
