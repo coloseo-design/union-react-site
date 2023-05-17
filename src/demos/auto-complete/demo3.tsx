@@ -3,16 +3,15 @@ import { AutoComplete } from 'union-design';
 
 /* start
 <div>
-<h3>基本用法</h3>
-<p>通过 dataSource 设置自动完成的数据源</p>
+<h3>禁用自动输入框</h3>
 </div>
 end */
 
 const { Option } = AutoComplete;
 export default () => {
-  const [data, SetData] = useState([]);
+  const [data, SetData] = useState<any[]>([]);
   const handleSearch = (value: string) => {
-    let result;
+    let result: any[] = [];
     if (!value || value.indexOf('@') >= 0) {
       result = [];
     } else {
@@ -28,6 +27,7 @@ export default () => {
         placeholder="请输入"
         onSearch={handleSearch}
         dataSource={children}
+        disabled
         style={{ width: 256 }}
       />
     </div>

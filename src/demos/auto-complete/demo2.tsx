@@ -96,16 +96,20 @@ export default () => {
   ]);
   return (
     <div>
+      <p>设置defaultOpen 默认展开下拉弹窗，通过设置showSearch展示搜索框， 通过设置autoFocus为true自动聚焦</p>
       <AutoComplete
         placeholder="请输入"
         onSearch={handleSearch}
-        style={{ marginTop: 32, width: 256 }}
+        style={{ width: 256 }}
         showSearch
         dataSource={searchChild}
+        defaultOpen
+        autoFocus
       />
+      <p style={{ marginTop: 32 }}>通过 Option设置下拉列表样式</p>
       <AutoComplete
         placeholder="请输入"
-        style={{ marginTop: 32, display: 'block', width: 256 }}
+        style={{ width: 256 }}
         dataSource={[
           {
             value: 1,
@@ -118,10 +122,11 @@ export default () => {
         ]}
         showSearch
       />
+      <p style={{ marginTop: 32 }}>通过OptGroup, Option设置自定义样式或者内容</p>
       <AutoComplete
         placeholder="请输入"
         onSearch={handleSearch}
-        style={{ marginTop: 32, width: 256 }}
+        style={{ width: 256 }}
         dataSource={options}
       />
     </div>

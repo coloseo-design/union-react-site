@@ -4,7 +4,7 @@ import { AutoComplete } from 'union-design';
 /* start
 <div>
 <h3>多行的展示</h3>
-
+<p>设置multiInput为true表示展示多行输入框，可通过设置rows 来展示行数</p>
 </div>
 end */
 
