@@ -34,7 +34,7 @@ module.exports = {
     contentBase: path.join(__dirname, './src/'),
     publicPath: '/',
     host: '127.0.0.1',
-    port: 3001,
+    port: 8001,
     stats: {
       colors: true,
     },
