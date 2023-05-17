@@ -54,7 +54,7 @@ export default () => {
     <div>
       <Cascader
         options={options}
-        value={['zhejiang', 'hangzhou', 'xihu']}
+        defaultValue={['zhejiang', 'hangzhou', 'xihu']}
         onChange={handleCascaderChange}
       />
     </div>
