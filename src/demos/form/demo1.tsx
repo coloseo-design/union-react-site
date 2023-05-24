@@ -1,19 +1,27 @@
-import React, { useRef } from 'react';
+import React, { useRef, useState } from 'react';
 import {
   Form,
   Input,
   Button,
+  Radio,
 } from 'union-design';
 import type { FormInstance } from 'union-design/lib/form/type';
 
 const { Item: FormItem } = Form;
 /* start
-  <h3>基本用法</h3>
-  <p>基本的表单数据域控制展示，包含布局、初始化、验证、提交。</p>
+  <h3>Form 表单布局</h3>
+  <p>表单的两种布局, 通过设置 colon 表示是否展示必选符号</p>
 end */
 
 export default () => {
   const formRef = useRef(null);
+  const [type, $type] = useState('Horizontal');
+  const [labelStyle, $labelStyle] = useState({});
+  const [showColon, $showColon] = useState('1');
+  const [layout, $layout] = useState({
+    labelCol: { span: 4 },
+    wrapperCol: { span: 18 },
+  });
   const onSubmit = (values: unknown) => {
     console.log('onSubmit values is', values);
   };
@@ -35,13 +43,36 @@ export default () => {
     },
   };
 
-  const layout = {
-    labelCol: { span: 4 },
-    wrapperCol: { span: 18 },
-  };
-
   return (
     <div>
+      <Radio.Group
+        value={type}
+        onChange={(e) => {
+          $type(e.target.value);
+          if (e.target.value === 'Vertical') {
+            $layout({
+              labelCol: { span: 24 },
+              wrapperCol: { span: 24 },
+            });
+            $labelStyle({
+              textAlign: 'left',
+            });
+          } else {
+            $layout({
+              labelCol: { span: 4 },
+              wrapperCol: { span: 18 },
+            });
+            $labelStyle({});
+          }
+        }}
+        options={['Horizontal', 'Vertical']}
+      />
+      <Radio.Group
+        value={showColon}
+        style={{ marginTop: 24 }}
+        onChange={(e) => $showColon(e.target.value)}
+        options={[{ value: '1', label: '展示冒号' }, { value: '2', label: '不展示冒号' }]}
+      />
       <Form
         {...layout}
         name="test"
@@ -54,10 +85,18 @@ export default () => {
           name="username"
           label="用户名"
           required
+          labelStyle={labelStyle}
+          colon={showColon === '1'}
         >
           <Input placeholder="请输入" />
         </FormItem>
-        <FormItem name="password" label="密码" required>
+        <FormItem
+          labelStyle={labelStyle}
+          name="password"
+          label="密码"
+          required
+          colon={showColon === '1'}
+        >
           <Input type="password" />
         </FormItem>
         <FormItem {...tailFormItemLayout}>
