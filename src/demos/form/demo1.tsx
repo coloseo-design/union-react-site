@@ -16,7 +16,7 @@ end */
 export default () => {
   const formRef = useRef(null);
   const [type, $type] = useState('Horizontal');
-  const [labelStyle, $labelStyle] = useState({});
+  const [labelAlign, $labelAlign] = useState<'right' | 'left' | undefined>('right');
   const [showColon, $showColon] = useState('1');
   const [layout, $layout] = useState({
     labelCol: { span: 4 },
@@ -54,15 +54,13 @@ export default () => {
               labelCol: { span: 24 },
               wrapperCol: { span: 24 },
             });
-            $labelStyle({
-              textAlign: 'left',
-            });
+            $labelAlign('left');
           } else {
             $layout({
               labelCol: { span: 4 },
               wrapperCol: { span: 18 },
             });
-            $labelStyle({});
+            $labelAlign('right');
           }
         }}
         options={['Horizontal', 'Vertical']}
@@ -80,18 +78,18 @@ export default () => {
         onFinish={onSubmit}
         onFinishFailed={onFinishFailed}
         style={{ padding: 20 }}
+        labelAlign={labelAlign}
+        labelStyle={{ lineHeight: '32px' }}
       >
         <FormItem
           name="username"
           label="用户名"
           required
-          labelStyle={labelStyle}
           colon={showColon === '1'}
         >
           <Input placeholder="请输入" />
         </FormItem>
         <FormItem
-          labelStyle={labelStyle}
           name="password"
           label="密码"
           required

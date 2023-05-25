@@ -97,7 +97,10 @@ const HowUse = () => (
       </span>
       ）。
     </p>
+    <h2 style={{ marginTop: 32 }} id="plugin">常规引入演示</h2>
+    <p>在项目入口页面引入</p>
     <h2 style={{ marginTop: 32 }} id="plugin">按需加载</h2>
+    <ReactHight>import 'union-design/lib/index.css'</ReactHight>
     <p>
       <span style={spanS}>union-design</span>
       默认支持基于 ES modules 的 tree shaking，对于 js 部分，直接引入
@@ -111,11 +114,10 @@ const HowUse = () => (
       {`
         import React from 'react';
         import ReactDOM from 'react-dom';
-        import { Button, DatePicker, version } from 'union-design-h5';
+        import { Button, DatePicker } from 'union-design';
         
         ReactDOM.render(
           <div className="App">
-            <h1>antd version: {version}</h1>
             <DatePicker />
             <Button type="primary" style={{ marginLeft: 8 }}>
               Primary Button
