@@ -201,9 +201,9 @@ export { ${ComponentName}${DemoName} };
     .pipe(dest(path.resolve('src', 'codes')));
 }
 exports.md = series([
-  // clean('src/docs'),
-  // markdown,
-  // entry,
+  clean('src/docs'),
+  markdown,
+  entry,
 
   clean('src/codes'),
   clean('src/allDemos'),
