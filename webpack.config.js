@@ -106,7 +106,11 @@ module.exports = {
             options: {
               cacheDirectory: true,
               plugins: [
-                ['import', { libraryName: 'union-design', libraryDirectory: 'lib', style: (name) => `${name}/styles/css` }, 'uni'],
+                ['import', {
+                  libraryName: 'union-design',
+                  libraryDirectory: 'lib',
+                  style: (name) => `${name}/styles/css`,
+                }, 'uni'],
                 [
                   resolve('@babel/plugin-transform-typescript'),
                   {

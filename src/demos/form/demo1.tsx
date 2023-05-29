@@ -10,7 +10,7 @@ import type { FormInstance } from 'union-design/lib/form/type';
 const { Item: FormItem } = Form;
 /* start
   <h3>Form 表单布局</h3>
-  <p>表单的两种布局, 通过设置 colon 表示是否展示必选符号</p>
+  <p>表单的两种布局, 通过设置 colon 表示是否展示必选符号, 可以通过labelStyle来自定义label样式</p>
 end */
 
 export default () => {
@@ -95,7 +95,7 @@ export default () => {
           required
           colon={showColon === '1'}
         >
-          <Input type="password" />
+          <Input type="password" placeholder="请输入密码" />
         </FormItem>
         <FormItem {...tailFormItemLayout}>
           <Button type="primary" htmlType="submit" style={{ marginRight: 20 }}>提交</Button>

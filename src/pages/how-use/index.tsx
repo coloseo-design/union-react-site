@@ -100,7 +100,7 @@ const HowUse = () => (
     <h2 style={{ marginTop: 32 }} id="plugin">常规引入演示</h2>
     <p>在项目入口页面引入</p>
     <h2 style={{ marginTop: 32 }} id="plugin">按需加载</h2>
-    <ReactHight>import 'union-design/lib/index.css'</ReactHight>
+    <ReactHight>import &apos;union-design/lib/index.css&apos;</ReactHight>
     <p>
       <span style={spanS}>union-design</span>
       默认支持基于 ES modules 的 tree shaking，对于 js 部分，直接引入

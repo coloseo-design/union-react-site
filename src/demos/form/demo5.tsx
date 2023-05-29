@@ -16,11 +16,17 @@ import {
   Switch,
   TreeSelect,
 } from 'union-design';
+import type { FormValues, FormInstance } from 'union-design/lib/form/type';
+
+/* start
+<h3>在form中使用union-design的输入组件</h3>
+<p>使用onFinishFailed方法获取失败的数据字段，在onFinish方法中获取提交的所有字段。<p>
+<p>onValuesChange方法在formItem下面组件value有变化时触发可以实时获取当前变化的字段和所有的字段值</p>
+end */
 
 const { Item: FormItem } = Form;
 export default () => {
   const formRef = useRef(null);
-  console.log('formRef', formRef);
   const onSubmit = (values: unknown) => {
     console.log('onSubmit values is', values);
   };
@@ -29,68 +35,32 @@ export default () => {
     console.log('failed data', failedData);
   };
 
+  const onValuesChange = (changedValues: FormValues, allValues: FormValues) => {
+    console.log('==?changedValues>', changedValues, allValues);
+  };
+
   const data = [
     {
       key: '0',
-      title: 'node-0',
+      title: '集团',
       value: '0',
       children: [
         {
           key: '0-1',
-          title: 'node-0-1',
+          title: '设计部',
           value: '0-1',
         },
         {
           key: '0-2',
-          title: 'node-0-2',
+          title: '研发部',
           value: '0-2',
         },
       ],
     },
     {
       key: '1',
-      title: 'node-1',
+      title: '其他部门',
       value: '1',
-      children: [
-        {
-          key: '1-1',
-          title: 'node-1-1',
-          value: '1-1',
-          children: [
-            {
-              key: '1-1-1',
-              title: 'node-1-1-1',
-              value: '1-1-1',
-            },
-            {
-              key: '1-1-2',
-              title: 'node-1-1-2',
-              value: '1-1-2',
-            },
-          ],
-        },
-        {
-          key: '1-2',
-          title: 'node-1-2',
-          value: '1-2',
-          children: [
-            {
-              key: '1-2-1',
-              title: 'node-1-2-1',
-              children: [
-                {
-                  key: '1-1-3',
-                  title: 'node-1-1-3',
-                },
-                {
-                  key: '1-1-4',
-                  title: 'node-1-1-4',
-                },
-              ],
-            },
-          ],
-        },
-      ],
     },
 
   ];
@@ -155,6 +125,7 @@ export default () => {
         ref={formRef}
         onFinish={onSubmit}
         onFinishFailed={onFinishFailed}
+        onValuesChange={onValuesChange}
         style={{ padding: 20 }}
       >
         <FormItem
@@ -173,7 +144,7 @@ export default () => {
             },
           ]}
         >
-          <Input placeholder="请输入" onChange={(e: any, v: any) => console.log('change', e, v)} />
+          <Input placeholder="请输入" />
         </FormItem>
         <FormItem
           name="textarea"
@@ -192,7 +163,7 @@ export default () => {
             },
           ]}
         >
-          <Input.TextArea placeholder="请输入" style={{ width: '100%' }} onChange={(e, v) => console.log('change', e, v)} />
+          <Input.TextArea placeholder="请输入" style={{ width: '100%' }} />
         </FormItem>
         <FormItem
           name="sex"
@@ -263,11 +234,7 @@ export default () => {
         <FormItem
           name="avatar"
           label="头像"
-          validateFirst
           valuePropName="fileList"
-          rules={[
-            { required: true, message: '请填写年龄' },
-          ]}
         >
           <Upload.Card
             listType="picture-card"
@@ -275,24 +242,24 @@ export default () => {
           />
         </FormItem>
         <FormItem
-          name="test"
-          label="头像"
+          name="department"
+          label="部门"
           rules={[
-            { required: true, message: '请填写年龄' },
+            { required: true, message: '请填写部门' },
           ]}
         >
-          <TreeSelect treeData={data} onChange={(...args) => console.log('args', args)} />
+          <TreeSelect treeData={data} />
         </FormItem>
         <FormItem
-          name="test1"
+          name="checkbox"
           label="是否满意"
           rules={[
             { required: true, message: '请选择' },
           ]}
         >
-          <Checkbox.Group>
-            <Checkbox>hello</Checkbox>
-            <Checkbox>hello2</Checkbox>
+          <Checkbox.Group onChange={(v) => { console.log('==vv', v); }}>
+            <Checkbox value="1">hello</Checkbox>
+            <Checkbox value="2">hello2</Checkbox>
           </Checkbox.Group>
         </FormItem>
         <FormItem
@@ -328,8 +295,9 @@ export default () => {
           <Button
             htmlType="reset"
             onClick={() => {
-              console.log('formRef', formRef);
-              formRef.current.reset();
+              if (formRef.current) {
+                (formRef.current as FormInstance).reset();
+              }
             }}
           >
             重置

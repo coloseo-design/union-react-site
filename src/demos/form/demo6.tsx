@@ -16,7 +16,7 @@ import type { FormInstance } from 'union-design/lib/form/type';
 const { Item: FormItem } = Form;
 /* start
   <h3>设置默认值</h3>
-  <p>通过再form上设置initialValues或者在Item上设置initialValue来设置组件的默认值, 如果都设置了则item的initialValue会覆盖form上的initialValue3</p>
+  <p>通过再form上设置initialValues或者在Item上设置initialValue来设置组件的默认值, 如果都设置了则item的initialValue会覆盖form上的initialValues</p>
 end */
 
 export default () => {
@@ -129,7 +129,7 @@ export default () => {
           name="department"
           label="选择部门"
           required
-          initialValue="0"
+          initialValue="0-1"
         >
           <TreeSelect treeData={data} />
         </FormItem>
