@@ -3,6 +3,7 @@ import { Upload } from 'union-design';
 
 /* start
 <h3>listType=picture-card</h3>
+<p>使用Upload.Card</p>
 end */
 
 export default () => {

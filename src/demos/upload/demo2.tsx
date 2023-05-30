@@ -3,6 +3,7 @@ import { Upload } from 'union-design';
 
 /* start
 <h3>listType=text</h3>
+<p>使用Upload.Drag</p>
 end */
 
 export default () => {

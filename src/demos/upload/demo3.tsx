@@ -38,7 +38,6 @@ const UploadDemo = () => {
           }
           return <div />;
         }}
-        multiple
         listType="text"
         btnText="自定义上传列表"
       />

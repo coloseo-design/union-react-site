@@ -1,6 +1,10 @@
 import React from 'react';
 import { Upload } from 'union-design';
 
+/* start
+<h3>设置上传文件格式</h3>
+<p>可以通过设置accept来规范上传文件的格式, accept设值可见input type="file"接收的值<p>
+end */
 const UploadDemo = () => {
   const common = {
     action: 'http://192.168.0.102:3000/upload',
@@ -9,11 +13,8 @@ const UploadDemo = () => {
     <div>
       <Upload.Button
         {...common}
-        onChange={(files) => {
-          console.log('==files1123', files);
-        }}
+        accept=".png,.jpeg"
         listType="text"
-        btnDesc="支持扩展名：.rar .zip .doc .docx .pdf .jpg..."
       />
     </div>
   );
