@@ -40,7 +40,7 @@
 /* eslint-disable */export { default as Result } from './result/demo';
 /* eslint-disable */export { default as Select } from './select/demo';
 /* eslint-disable */export { default as Skeleton } from './skeleton/demo';
-/* eslint-disable */export { default as Slider } from './slider/demo';
+/* eslint-disable */export { default as Slider } from './slider/demo1';
 /* eslint-disable */export { default as Spin } from './spin/demo';
 /* eslint-disable */export { default as Statistic } from './statistic/demo';
 /* eslint-disable */export { default as Steps } from './steps/demo';

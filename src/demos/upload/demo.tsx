@@ -9,6 +9,11 @@ const UploadDemo = () => {
     <div>
       <Upload.Button
         {...common}
+        onRemove={(file) => {
+          console.log('==file', file);
+          return true;
+        }}
+        multiple
         listType="text"
         btnDesc="支持扩展名：.rar .zip .doc .docx .pdf .jpg..."
       />

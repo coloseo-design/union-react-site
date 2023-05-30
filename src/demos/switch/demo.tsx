@@ -7,18 +7,16 @@ export default () => {
   const [update, setState] = React.useState<boolean>(false);
   return (
     <div>
-      <Switch checked={update} disabled={!update} />
-      <span style={{ margin: '0 20px' }}><Switch checked={false} onChange={(a, b) => { console.log(a); console.log(b); }} /></span>
+      <p style={{ margin: '24px 0px 10px 0px' }}>基本用法</p>
+      <Switch onChange={(a, b) => { console.log(a); console.log(b); }} />
+      <p style={{ margin: '24px 0px 10px 0px' }}>禁止状态</p>
+      <Switch disabled />
+      <p style={{ margin: '24px 0px 10px 0px' }}>选中状态</p>
       <Switch checked />
-      <span style={{ margin: '0 20px' }}><Switch checked disabled /></span>
+      <p style={{ margin: '24px 0px 10px 0px' }}>icon 状态切换</p>
       <Switch type="icon" />
-      <span style={{ margin: '0 20px' }}><Switch type="text" /></span>
-      <button onClick={() => {
-        setState(!update);
-      }}
-      >
-        测试
-      </button>
+      <p style={{ margin: '24px 0px 10px 0px' }}>文字状态切换</p>
+      <Switch type="text" />
     </div>
   );
 };
