@@ -2,7 +2,7 @@ import React from 'react';
 import { Radio } from 'union-design';
 
 /* start
-  <h3><垂直排列/h3>
+  <h3>垂直排列</h3>
 end */
 
 export default () => (

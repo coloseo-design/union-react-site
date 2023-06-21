@@ -4,7 +4,8 @@ import {
 } from 'union-design';
 
 /* start
-  <h3>下拉菜单带按钮</h3>
+  <h3>按钮形式的dropdown</h3>
+  <p>设置不同大小，不同类型的button</p>
 end */
 
 const menu = (
@@ -27,16 +28,6 @@ const menu = (
       <Menu.Item>
         工作台2
       </Menu.Item>
-      <Menu.SubMenu key="2" icon="image" title="表单页1">
-        <Menu.Item key="3">
-          表单页
-        </Menu.Item>
-        <Menu.SubMenu key="4" title="表单页2">
-          <Menu.Item key="5">
-            表单页2
-          </Menu.Item>
-        </Menu.SubMenu>
-      </Menu.SubMenu>
     </Menu.SubMenu>
   </Menu>
 );
@@ -57,6 +48,12 @@ const DropdownDemo = () => {
 
   return (
     <>
+      <Dropdown.Button overlay={menu} size="large" icon={<Icon style={{ fontSize: 16 }} type="zoomout" />}>
+        bigButton
+      </Dropdown.Button>
+      <br />
+      <br />
+      <br />
       <Dropdown.Button
         overlay={menu}
         type="primary"
@@ -67,17 +64,34 @@ const DropdownDemo = () => {
       >
         primary dropdown
       </Dropdown.Button>
-      <Dropdown.Button overlay={menu} size="large" icon={<Icon style={{ fontSize: 16 }} type="zoomout" />}>
-        bigButton
-      </Dropdown.Button>
+      <br />
+      <br />
+      <br />
       <Dropdown.Button overlay={menu} size="small" icon={<Icon style={{ fontSize: 12 }} type="zoomout" />}>
         small Button
       </Dropdown.Button>
-      <Dropdown.Button overlay={menu} type="dashed">
+      <br />
+      <br />
+      <br />
+      <Dropdown.Button overlay={test} type="dashed">
         dashed
       </Dropdown.Button>
-      <Dropdown.Button type="link" overlay={menu}>
+      <br />
+      <br />
+      <br />
+      <Dropdown.Button type="link" overlay={test}>
         dashed
+      </Dropdown.Button>
+      <br />
+      <br />
+      <br />
+      <Dropdown.Button
+        overlay={menu}
+        disabled
+        type="primary"
+        icon={<Icon style={{ fontSize: 14 }} type="zoomout" />}
+      >
+        primary dropdown
       </Dropdown.Button>
     </>
   );

@@ -2,7 +2,7 @@ import React from 'react';
 import { Radio } from 'union-design';
 
 /* start
-  <h3><横向排列/h3>
+  <h3>横向排列</h3>
 end */
 const options = [
   { label: 'Apple', value: 'Apple' },

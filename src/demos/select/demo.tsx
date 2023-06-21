@@ -1,6 +1,10 @@
 import React from 'react';
 import { Select } from 'union-design';
 
+/* start
+<h3>多选框</h3>
+<p>可删除 配置allowClear 为true</p>
+end */
 const { Option } = Select;
 
 const SelectDemo = () => {
@@ -32,6 +36,7 @@ const SelectDemo = () => {
         placeholder="请选择选项"
         style={{ width: 220 }}
         value="1"
+        allowClear
       >
         {dataT.map((item: any) => (
           <Option value={item.value} key={item.value}>{item.label}</Option>

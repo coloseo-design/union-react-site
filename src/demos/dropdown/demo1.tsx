@@ -8,37 +8,28 @@ import {
 end */
 export default () => {
   const [visible, setVisible] = React.useState(false);
+  const { SubMenu } = Menu;
   const menu = (
     <Menu>
       <Menu.Item icon={<Icon type="user" />}>
         工作台1
       </Menu.Item>
-      <Menu.SubMenu title="工作台2">
+      <SubMenu title="工作台2">
         <Menu.Item>
           工作台1
         </Menu.Item>
         <Menu.Item>
           工作台2
         </Menu.Item>
-      </Menu.SubMenu>
-      <Menu.SubMenu title="工作台3">
+      </SubMenu>
+      <SubMenu title="工作台3">
         <Menu.Item>
           工作台1
         </Menu.Item>
         <Menu.Item>
           工作台2
         </Menu.Item>
-        <Menu.SubMenu key="2" icon="image" title="表单页1">
-          <Menu.Item key="3">
-            表单页
-          </Menu.Item>
-          <Menu.SubMenu key="4" title="表单页2">
-            <Menu.Item key="5">
-              表单页2
-            </Menu.Item>
-          </Menu.SubMenu>
-        </Menu.SubMenu>
-      </Menu.SubMenu>
+      </SubMenu>
     </Menu>
   );
   const handleButtonClick = () => {
@@ -58,14 +49,11 @@ export default () => {
         placement="bottomLeft"
         overlay={test}
         arrow
-        visible={visible}
-        onVisibleChange={(v) => setVisible(v)}
-        trigger={['click']}
         overlayStyle={{ width: 130 }}
       >
         <Button style={{ margin: 12 }}>bottomLeft</Button>
       </Dropdown>
-      <Dropdown placement="bottomCenter" overlayStyle={{ width: '100px' }} trigger={['click']} overlay={menu} arrow>
+      <Dropdown placement="bottomCenter" overlayStyle={{ width: '100px' }} overlay={menu} arrow>
         <Button style={{ margin: 12 }}>bottomCenter</Button>
       </Dropdown>
       <Dropdown placement="bottomRight" overlay={menu} arrow>
