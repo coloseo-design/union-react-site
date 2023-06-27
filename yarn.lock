@@ -11177,10 +11177,10 @@ unified@^4.1.1:
     trough "^1.0.0"
     vfile "^1.0.0"
 
-union-design@^1.0.46-beta.2:
-  version "1.0.46-beta.2"
-  resolved "https://npm.coloseo.online/union-design/-/union-design-1.0.46-beta.2.tgz#dceac1af35298b27798a83cd18195d3b4cf6551c"
-  integrity sha512-I1NFvacb3bdr4/Uwkm51Ql1bo+xtcMT+IuZthsxPFrAQOP8PgxZAfSV86CwZV3dZ9Hiot2ham35sSJjTwjXzAg==
+union-design@^1.0.46-beta.3:
+  version "1.0.46-beta.3"
+  resolved "https://npm.coloseo.online/union-design/-/union-design-1.0.46-beta.3.tgz#84b00273dcb9e6f1df98724c4dd016cadab3b48b"
+  integrity sha512-zzwYO2O7gdnxVX9j7QxAkYmL+9tSJ8MACFI9qqV0C0354I2H3uPrLaYThpE5i9edAXNaJ7vSRHp5oMVeVyme/Q==
   dependencies:
     "@uni/icons-react" "^2.0.2"
     async-validator "^3.5.1"

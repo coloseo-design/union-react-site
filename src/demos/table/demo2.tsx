@@ -12,7 +12,7 @@ export default () => {
       props: {},
     };
     if (index === 4) {
-      obj.props.colSpan = 0;
+      (obj.props as any).colSpan = 0;
     }
     return obj;
   };
@@ -21,7 +21,7 @@ export default () => {
     {
       title: '部门',
       dataIndex: 'name',
-      render: (text: unknown | null | undefined, row: any, index: number) => {
+      render: (text: any, row: any, index: number) => {
         if (index < 4) {
           return <span style={{ color: '#207EEA' }}>{text}</span>;
         }

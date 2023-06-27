@@ -1,10 +1,29 @@
 import React from 'react';
 import { Table } from 'union-design';
-
 /* start
-<h3>固定头表格</h3>
-通过设置scroll.y 来固定
+<h3>可展开行</h3>
+通过expandedRowRender 返回null 或者ReactNode来设置
 end */
+
+const columnsBase = [
+  {
+    title: '事项代码',
+    dataIndex: 'name',
+    key: 'name',
+    width: 150,
+  },
+  {
+    title: '事项名称',
+    dataIndex: 'age',
+    key: 'age',
+    width: 150,
+  },
+  {
+    title: '决策过程',
+    dataIndex: 'address',
+    key: 'address',
+  },
+];
 
 export default () => {
   const dataSource = [
@@ -13,68 +32,49 @@ export default () => {
       name: 'H01-001',
       age: '省分分公司领导班子调整',
       address: '董事会监管会',
+      description: '展开行测试测试测试测试测试',
     },
     {
       key: '2',
       name: 'H01-001',
       age: '省分分公司领导班子调整',
       address: '董事会监管会',
+      description: '展开行测试测试测试测试测试',
     },
     {
       key: '3',
       name: 'H01-001',
       age: '省分分公司领导班子调整',
       address: '董事会监管会',
+      description: '展开行测试测试测试测试测试',
     },
     {
       key: '4',
       name: 'H01-001',
       age: '省分分公司领导班子调整',
       address: '董事会监管会',
+      description: '展开行测试测试测试测试测试',
     },
     {
       key: '5',
       name: 'H01-001',
       age: '省分分公司领导班子调整',
       address: '董事会监管会',
+      description: '展开行测试测试测试测试测试',
     },
     {
       key: '6',
       name: 'H01-001',
       age: '省分分公司领导班子调整',
       address: '董事会监管会',
-    },
-  ];
-  const columnsFixed = [
-    {
-      title: '事项代码',
-      dataIndex: 'name',
-      key: 'name',
-      width: 150,
-      fixed: true,
-    },
-    {
-      title: '事项名称',
-      dataIndex: 'age',
-      key: 'age',
-      width: 200,
-      fixed: 'right',
-    },
-    {
-      title: '决策过程',
-      dataIndex: 'address',
-      key: 'address',
+      description: '展开行测试测试测试测试测试',
     },
   ];
   return (
-    <div>
-      <Table
-        dataSource={dataSource}
-        columns={columnsFixed as any}
-        rowKey="key"
-        bordered
-        scroll={{ y: 200, x: 1500 }}
-      />
-    </div>
+    <Table
+      dataSource={dataSource}
+      columns={columnsBase}
+      expandedRowRender={(record) => <p>{record.description}</p>}
+    />
   );
 };

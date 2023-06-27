@@ -1,8 +1,9 @@
 import React from 'react';
-import { Table } from 'union-design';
+import { Table, Radio } from 'union-design';
 
 /* start
 <h3>可选择行</h3>
+<p>第一列是联动的选择框。可以通过 rowSelection.type 属性指定选择类型，默认为 checkbox。</p>
 end */
 
 export default () => {
@@ -73,12 +74,19 @@ export default () => {
       disabled: record.name === 'Jim Red', // Column configuration not to be checked
       name: record.name,
     }),
-    selectedRowKeys: ['4'],
+  };
+  const [selectType, $type] = React.useState('1');
+  const radioChange = (e: any) => {
+    $type(e.target.value);
   };
   return (
     <div>
+      <Radio.Group onChange={radioChange} style={{ marginBottom: 24 }} value={selectType}>
+        <Radio value="1">checkbox</Radio>
+        <Radio value="2">radio</Radio>
+      </Radio.Group>
       <Table
-        rowSelection={rowSelection}
+        rowSelection={{ ...rowSelection, type: selectType === '2' ? 'radio' : 'checkbox' }}
         columns={columnsFixed}
         dataSource={dataSource}
         rowKey="key"

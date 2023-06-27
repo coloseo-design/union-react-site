@@ -3,6 +3,7 @@ import { Table } from 'union-design';
 
 /* start
 <h3>可筛选过滤</h3>
+<p>对某一列数据进行筛选，使用列的 filters 属性来指定需要筛选菜单的列，onFilter 用于筛选当前数据，filterMultiple 用于指定多选和单选</p>
 end */
 
 export default () => {
@@ -28,7 +29,7 @@ export default () => {
         },
         {
           text: '李四 family',
-          value: '张三',
+          value: '李四',
         },
       ],
       onFilter: (value: any, record: { name: string | any[]; }) => record.name.includes(value),

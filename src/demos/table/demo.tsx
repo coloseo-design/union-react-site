@@ -1,5 +1,5 @@
 import React from 'react';
-import { Table } from 'union-design';
+import { Table, Switch } from 'union-design';
 
 const dataSource = [
   {
@@ -60,16 +60,35 @@ const columnsBase = [
   },
 ];
 
-const TableDemo: React.FC<unknown> = () => (
-  <div>
-    <Table
-      dataSource={dataSource}
-      columns={columnsBase}
-      rowKey="key"
-      bordered
-      scroll={{ y: 200 }}
-    />
-  </div>
-);
+const TableDemo: React.FC<unknown> = () => {
+  const [bordered, setBordered] = React.useState(false);
+  const [loading, $loading] = React.useState(false);
+  const onChange = (v: boolean) => {
+    setBordered(v);
+  };
+  const onChange1 = (v: boolean) => {
+    $loading(v);
+  };
+
+  return (
+    <div>
+      <div style={{ marginBottom: 24 }}>
+        是否展示border：
+        <Switch checked={bordered} onChange={onChange} />
+        <br />
+        <br />
+        loading：
+        <Switch checked={loading} onChange={onChange1} />
+      </div>
+      <Table
+        dataSource={dataSource}
+        columns={columnsBase}
+        rowKey="key"
+        bordered={bordered}
+        loading={loading}
+      />
+    </div>
+  );
+};
 
 export default TableDemo;
