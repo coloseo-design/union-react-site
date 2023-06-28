@@ -29,7 +29,7 @@
     "omit.js": "^1.0.2",
     "react-highlight": "^0.14.0",
     "react-instantsearch-dom": "^6.11.0",
-    "union-design": "^1.0.46-beta.3",
+    "union-design": "^1.0.47",
     "union-tool": "^0.1.2",
     "url-loader": "4.1.1"
   },
