@@ -73,8 +73,9 @@ export default () => {
   return (
     <Table
       dataSource={dataSource}
+      rowSelection={{}}
       columns={columnsBase}
-      expandedRowRender={(record) => <p>{record.description}</p>}
+      expandedRowRender={(record) => <span>{record.description}</span>}
     />
   );
 };
